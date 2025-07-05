@@ -1,0 +1,177 @@
+hormoneClass(1,"Group I", "Lipophilic", true, "Long").
+hormoneClass(2,"Group II","Hydrophilic", false, "Short").
+
+// descriptions derived from Gemini overview
+hormoneTypes("e458a582-fd95-480d-9331-4a2e9ea1d647",1,"Steroids", "control of metabolism, inflammation, immune functions, salt and water balance, development of sexual characteristics, and the ability to withstand illness and injury").
+hormoneTypes("a30bc83a-1ddc-4c58-beee-7a1919013e76",1,"Iodothyronines","regulating the body's metabolism, heart and digestive functions, muscle control, brain development, and bone maintenance").
+hormoneTypes("ffb21653-bc2b-47d1-99c4-1a1b5ad11f59",1,"Calcitriol","regulates calcium and phosphorus levels in the body, calcium homeostasis").
+hormoneTypes("2646833e-af04-4003-909c-fbe70d29aade",1,"Retinoids","influence cell growth, cell turnover, and the expression of certain genes").
+hormoneTypes("009c7913-2eae-42a3-8a5b-0b9b7f26a2db",2,"Polypeptides","act as crucial messengers in the body, regulating various physiological processes like metabolism, growth, and reproduction").
+hormoneTypes("084f652e-cad4-41e4-a6dc-6e71082144c1",2,"Proteins","act as chemical messengers, playing crucial roles in regulating various bodily functions").
+hormoneTypes("21aaea1e-23ef-482a-b999-007d2489f92c",2,"Glycoproteins","play crucial roles in various bodily functions, primarily related to reproduction and thyroid activity").
+hormoneTypes("11b3086d-1224-4f63-af0c-35e9842c07c0",2,"Catecholomines","orchestrate the body's fight-or-flight response to stress").
+hormoneTypes("940d59eb-c46d-43de-a0b4-a3e4644dffc2",1,"Eicosanoid","involved in inflammation, pain, fever, blood clotting, and smooth muscle contraction").
+
+hormoneGroup("ae58be42-cd68-4821-9e7c-70792aa7fb38","009c7913-2eae-42a3-8a5b-0b9b7f26a2db","Peptide","crucial regulators of various bodily functions, including metabolism, growth, stress responses, and reproduction, by binding to receptors on target cells and initiating intracellular signaling pathways").
+hormoneGroup("6b539c79-feb0-429d-bdb1-66fa6a826c7d","e458a582-fd95-480d-9331-4a2e9ea1d647","Androgen","Stimulate masculinization").
+hormoneGroup("6a2e198e-8cfe-41c1-98af-73b4f8c39653","e458a582-fd95-480d-9331-4a2e9ea1d647","Estrogen","a sex hormone primarily known for its role in female sexual and reproductive health").
+hormoneGroup("d5cf84fb-a3ec-4b1b-82fe-c6efa428514b","e458a582-fd95-480d-9331-4a2e9ea1d647","Glucocorticoid","Regulate glucose metabolism").
+hormoneGroup("5544c99e-eaa7-4c01-aae5-f4489688c0ad","e458a582-fd95-480d-9331-4a2e9ea1d647","Progestogen","prepares the uterus for pregnancy and maintains it during pregnancy").
+hormoneGroup("1027a4d0-df4f-455f-9a36-9998c0aaff63","e458a582-fd95-480d-9331-4a2e9ea1d647","Secosteroid","an important regulator of calcium homeostasis and bone metabolism via actions in the intestine, bone, kidney, and parathyroid glands").
+hormoneGroup("ecb0e3d1-1123-4e66-a6a8-d71ef493606e","e458a582-fd95-480d-9331-4a2e9ea1d647","Mineralcorticoid","Regulate mineral balance").
+hormoneGroup("01f6b025-06a1-462d-9076-05557e411c78","11b3086d-1224-4f63-af0c-35e9842c07c0","Catecholomines","Stimulate sympathetic ANS").
+
+hormone("331f9407-881d-4235-b880-48edf6c4d1a3", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "18oxoF", "18-oxocortisol").
+hormone("0e5ee681-f1f8-432b-9b7f-3c8a9bf37ccc", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "18OHF", "18-hydroxycortisol").
+hormone("986c2526-bd34-4c47-bde0-1ce1b9e3dd2a", "ecb0e3d1-1123-4e66-a6a8-d71ef493606e", "Aldo", "Aldosterone").
+hormone("7fca6ef2-8836-409b-a958-5287134aee49", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "Cortisol", "Cortisol").
+hormone("5108b288-a0bc-4e12-bc22-870a8ef9789d", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "Cortisone", "Cortisone").
+hormone("b04d90ba-5750-4666-a8ca-e02bbc4e2ec5", "ecb0e3d1-1123-4e66-a6a8-d71ef493606e", "18OHCCS", "18-hydroxycorticosterone").
+hormone("fb4e4e82-7eeb-482f-a9a2-5f1ea4421f78", "6b539c79-feb0-429d-bdb1-66fa6a826c7d", "DHEAS", "Dehydroepiandrosterone sulfate").
+hormone("36d1cef6-29bd-4c6a-be31-b1dc5718eca6", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "21DOC", "21-deoxycortisol").
+hormone("7fa16bfd-eb60-4e59-884c-a8fb91a24e29", "ecb0e3d1-1123-4e66-a6a8-d71ef493606e", "11DOC", "11-deoxycorticosterone").
+hormone("e24296df-5350-4657-b3de-7182a580c9e4", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "CCS", "Corticosterone").
+hormone("7249ff28-22e3-4ad9-941d-872533f4b0e6", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "aTHF", "Allo-Tetrahydrocortisol").
+hormone("7f966adf-7c0c-4ac5-ad21-5285f12613b1", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "THF", "Tetrahydrocortisol").
+hormone("2dcfa2bd-5e70-442d-9ccc-761710bd435b", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "aTHE", "Allotetrahydrocortisone").
+hormone("77bd117a-5d7c-4851-b3a3-ba35b93d3741", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "THE", "Tetrahydrocortisone").
+hormone("f5b14ac8-65e6-4576-ab56-baa9c739ef65", "d5cf84fb-a3ec-4b1b-82fe-c6efa428514b", "DXM", "Dexamethasone").
+hormone("ccfd930e-e90d-494a-b859-a69a86c61389", "ecb0e3d1-1123-4e66-a6a8-d71ef493606e", "THAldo", "Tetrahydroaldosterone").
+hormone("f508a009-13ec-49ec-bc16-adae2859ff6c", "6b539c79-feb0-429d-bdb1-66fa6a826c7d", "Andro", "Androstenedione").
+hormone("a21ef33b-5df9-4525-89ed-41347cc3875b", "ecb0e3d1-1123-4e66-a6a8-d71ef493606e", "11deoxyCCS", "11-deoxycorticosterone").
+hormone("f215e8fd-ceb8-4ba9-a570-0576757d3af8", "6b539c79-feb0-429d-bdb1-66fa6a826c7d", "Testo", "Testosterone").
+hormone("d3d47191-a2c9-49da-b3f5-85909530b1c6", "6b539c79-feb0-429d-bdb1-66fa6a826c7d", "DHEA", "Dehydroepiandrosterone").
+hormone("ae70a10a-33db-4acd-99c9-0fb2535899bc", "5544c99e-eaa7-4c01-aae5-f4489688c0ad", "17OHP", "17-hydroxyprogesterone").
+hormone("d429c59f-0792-4970-be40-82932963b049", "6b539c79-feb0-429d-bdb1-66fa6a826c7d", "EpiTesto", "Epitestosterone").
+hormone("bb4067dc-9d17-44ad-b30d-9d4055ea4c30", "6b539c79-feb0-429d-bdb1-66fa6a826c7d", "DHT", "Dihydrotestosterone").
+hormone("5bb70a76-a68d-42f5-95e1-c0c3fe844963", "5544c99e-eaa7-4c01-aae5-f4489688c0ad", "Prog", "Progesterone").
+hormone("c790b671-ed16-4ef7-9dde-7044d1dde862", "6a2e198e-8cfe-41c1-98af-73b4f8c39653", "Estradiol","Estradiol").
+hormone("80b1f594-f7ea-4752-ad52-3e4189977928", "6a2e198e-8cfe-41c1-98af-73b4f8c39653", "Estrone","Estrone").
+hormone("405ddd20-11d4-4fac-9fa5-5dc6a57a1a11", "6a2e198e-8cfe-41c1-98af-73b4f8c39653", "Estriol","Estriol").
+hormone("7db76f31-bfe9-4262-a734-04fdeb784667", "11b3086d-1224-4f63-af0c-35e9842c07c0", "Epi", "epinephrine").
+hormone("384cc520-c91d-4d9f-a82f-0194131d80f4", "11b3086d-1224-4f63-af0c-35e9842c07c0", "NE", "norepinephrine").
+hormone("c8e5ad8f-fc1c-4758-a165-21814e2e812f", "11b3086d-1224-4f63-af0c-35e9842c07c0", "DA", "dopamine").
+
+organ("33934e5f-c04f-4ca9-a1ca-8ed904a9b6f1", "adrenal", "Adrenal Gland", true, true).
+organ("1a352f80-de5d-4b1d-ac3f-73934469ca26", "hyp", "Hypthalamus", true, true).
+organ("30c9912c-0da3-449d-9a5b-26b9a7c26c42", "PG", "Pineal gland", true, true).
+organ("196573db-b6d2-41f4-b083-ab763e6772cf", "PT", "Pituitary gland", true, true).
+organ("c218672e-80dd-490e-9ba7-3989bb7a2e51", "TH", "Thymus", true, true).
+organ("f93a8749-28f2-492b-9adb-9981d4f2edd5", "ST", "Stomach", true, true).
+organ("93d53bca-9ab4-4ccb-8cd5-7286af9497c2", "PN", "Pancreas", true, true).
+organ("229edda3-f2b6-4ef2-bdfe-d13af46231be", "PL", "Placenta", false, true).
+organ("4f9fa0b5-c118-4147-93bb-01a69c7c3692", "OV", "Ovary", false, true).
+organ("5d0c2b3f-3f75-4f00-9a4a-b3fa693d5ca8", "UT", "Uterus", false, true).
+organ("00c46f6a-5598-4a46-ac1c-41686d21d1ff", "TS", "Testes", true, false).
+organ("0cd8c836-32d2-40d3-a590-37e6ce9e37d7", "LV", "Liver", true, true).
+organ("10e38938-74f4-4e3d-ab5e-3f6280b5ea62", "TH", "Thyroid", true, true).
+organ("66ff7aec-e9a6-4504-8d0a-7bc657b6d5aa", "PT", "Parathyroid", true, true).
+organ("06629bd4-54b9-47ba-8818-71f4aa003192", "BL", "Blood", true, true).
+organ("0f8bdfab-7bd6-4961-b1b1-b23c6a354392", "AT", "Adipose tissue", true, true).
+organ("12133ed4-e833-47bf-9e0a-77e7d746214a", "HT", "Heart", true, true).
+organ("dfcf7844-d9d2-4c07-b5a6-fc20332cc0ae", "DU", "Duodenum", true, true).
+organ("d21e3c63-5d7a-4e27-8694-e0dd1ad561a9", "KD", "Kidney", true, true).
+organ("d3e15a67-51ad-46ba-a4bd-efe69eefd3db", "VE", "Vascular endothelium", true, true).
+organ("309bd0d8-2f13-4d0c-a218-33f95c24f555", "IL", "Ileum", true, true).
+organ("22ac9ae0-8fdb-4d5b-8aea-914c538cad9c", "IN", "Intestine", true, true).
+organ("990705cc-f1e4-4e5f-8053-076e4f512f87", "SK", "Skeleton", true, true).
+organ("2b5274fe-3a46-4f45-8c3f-ba7a9276ae67", "MG", "Mammary gland", true, true).
+organ("2aba63f2-d10f-4a05-b2cd-ed773089551f", "SN", "Skin", true, true).
+organ("2aba63f2-d10f-4a05-b2cd-ed773089551f", "FT", "Fetus", true, true).
+organ("2aba63f2-d10f-4a05-b2cd-ed773089551f", "MB", "Brain", true, true).
+
+organTissue("258e986a-4e56-42bb-9e7a-a5800cb61fb0", "CC", "Cerebral cortex").
+organTPartOf("258e986a-4e56-42bb-9e7a-a5800cb61fb0","2aba63f2-d10f-4a05-b2cd-ed773089551f").
+
+organTissue("134b51b1-f10f-4ac4-90fa-282df82f09d9","Zona fasciculata").
+organTissue("eb463eac-e2b2-4c45-857a-98f1a0d8420e","Zona glomerulosa").
+organTissue("d864f399-3b9e-4961-b61c-ab071c245651","Zona reticularis").
+organTissue("30355882-489f-47ad-9f8c-90a50483c02b","Adrenal cortex").
+organTissue("b05a3958-5941-4986-9e15-138e88746258","Medulla").
+
+organTPartOf("134b51b1-f10f-4ac4-90fa-282df82f09d9","30355882-489f-47ad-9f8c-90a50483c02b").
+organTPartOf("eb463eac-e2b2-4c45-857a-98f1a0d8420e","30355882-489f-47ad-9f8c-90a50483c02b").
+organTPartOf("d864f399-3b9e-4961-b61c-ab071c245651","30355882-489f-47ad-9f8c-90a50483c02b").
+organTPartOf("30355882-489f-47ad-9f8c-90a50483c02b","33934e5f-c04f-4ca9-a1ca-8ed904a9b6f1").
+organTPartOf("b05a3958-5941-4986-9e15-138e88746258","33934e5f-c04f-4ca9-a1ca-8ed904a9b6f1").
+
+organTissue("766e1afc-231e-49f0-b5ad-85832af040f9","Peripheral tissue").
+organTPartOf("766e1afc-231e-49f0-b5ad-85832af040f9","10e38938-74f4-4e3d-ab5e-3f6280b5ea62").
+organTissue("345541fe-1a39-4a9b-b01e-ad68c23441b4","Substantia nigra").
+organTPartOf("345541fe-1a39-4a9b-b01e-ad68c23441b4","").
+organTissue("5c9a1289-88e8-491d-be4a-7a304307613c","Anterior pituatory").
+organTPartOf("5c9a1289-88e8-491d-be4a-7a304307613c","").
+organTissue("9566f4f3-ced2-4aac-ba70-fd38e35faa28","Posteria pituatory").
+organTPartOf("9566f4f3-ced2-4aac-ba70-fd38e35faa28","").
+organTissue("4c09153f-31d5-4012-bd55-a91b8dc68f9b","Mucosa").
+organTPartOf("4c09153f-31d5-4012-bd55-a91b8dc68f9b","").
+organTissue("e99a3653-ad9d-443f-ba4c-80d8cb9d3f54","Pars intermedia").
+organTPartOf("e99a3653-ad9d-443f-ba4c-80d8cb9d3f54","").
+organTissue("1ea0b578-51ac-45a4-97b1-a008ab709884","Small intestine").
+organTPartOf("1ea0b578-51ac-45a4-97b1-a008ab709884","").
+organTissue("2b9febac-f137-450b-9498-f503db869f8b","Thyroid").
+organTPartOf("2b9febac-f137-450b-9498-f503db869f8b","").
+organTissue("ac12fe00-1d01-407a-8fea-996b3a9c0e0f","Parathyroid").
+organTPartOf("ac12fe00-1d01-407a-8fea-996b3a9c0e0f","").
+organTissue("234c7200-0d6b-495e-8746-0545c4ed275c","Corpus luteum").
+organTPartOf("234c7200-0d6b-495e-8746-0545c4ed275c","").
+organTissue("dca077a3-0d21-4916-b5c1-2dff3178a1e5","Islets of Langerhans").
+organTPartOf("dca077a3-0d21-4916-b5c1-2dff3178a1e5","").
+organTissue("36b26398-9c0d-4c89-ad7e-2973d92c0bde","Suprachiasmatic nuclei").
+organTPartOf("36b26398-9c0d-4c89-ad7e-2973d92c0bde","").
+
+
+organCells("0e379c9d-fdd6-4cae-a69a-c339beb70669","Proximal tubule").
+organCells("73a070a0-98b2-42a1-9b6b-9f7689196c32","Theca cells").
+organCells("ed6b9d5f-f83e-49d1-ba7e-c4f832d8a878","Leydig cells").
+organCells("8545772f-ef44-4b04-a8f4-fb99370e0ea3","Syncytiotrophoblast").
+organCells("56beb6ac-1581-4ef8-add0-a2e258f236c9","Granulosa cells").
+organCells("31ac0451-ae33-476f-a1ea-3688aa1eed0e","Adipocytes").
+organCells("227f0bb9-98e1-4090-b9e4-7bda396eb872","Sertoli cell").
+organCells("d556bfa9-506d-4dae-b1cb-29480a63af71","Parvocellular neurosecretory neurons").
+organCells("99cf6b47-8c2d-4081-9a16-1124518c86a4","White blood cells").
+organCells("e764d396-0bd3-4d2c-831d-f9822f5edffd","Thyrotropes").
+organCells("54744cc6-de5d-4559-8821-3a2650dc9ca3","Thyroid follicular cell").
+organCells("63b985c4-ac68-4831-a6e6-ef38678adf3f","Tyrosine").
+organCells("87dc620e-a743-4658-87ec-534f79f78d17","Somatotropes").
+organCells("98ebcbfe-9b0c-42a2-9910-9cfbf30d960d","Trophoblasts").
+organCells("0da1cb18-375a-4f9f-9364-042a82f560ff","S cell").
+organCells("398f3b73-faf0-4e4f-bbfd-770b805ad1c4","PP cells").
+organCells("25914768-cf01-403a-bc68-336cef0ee8dd","Platelets").
+organCells("73eb5c3e-53d7-4a27-997e-cd08cc7c72fa","Pinealocyte").
+organCells("533761d2-2c77-4032-ad10-bf71b78f7c99","Tryptophan").
+organCells("ff5b768c-acd6-4b93-bb2f-ae60f3b5f13e","Phenylalanine").
+organCells("50e63bff-2ecf-4fbb-a248-45a0b12df9b4","Tyrosine").
+organCells("6104d63b-eda1-4f18-8b98-304339ab6a80","Parvocellular neurosecretory neurons").
+organCells("13707241-ac50-4a64-901b-cf971cfdb7c4","Magnocellular neurosecretory cells").
+organCells("945689cb-ae00-4d24-acc1-4364cc44c9a0","Parathyroid chief cell").
+organCells("1e6dcf34-bc3e-4974-9d8e-aa6f850a1c3b","Parafollicular cell").
+organCells("e83dcb1a-ae5e-4656-8eed-6247e82fb00f","Pancreatic β-cells").
+organCells("ac3631f0-74a3-44d7-a58a-e6945c7179b1","P/D1 cell").
+organCells("e124201a-479b-4117-b21e-b8f5712486e5","Osteoblasts").
+organCells("0545956b-c68f-4c37-90a4-6c4887f69a4f","Myocytes").
+organCells("db5b4f24-4893-4afa-ac5c-9857e22bcfab","Adrenal medulla").
+organCells("3eabae9e-be85-44ba-885a-4e0ee4343a40","alpha cells of Islets of Langerhans").
+organCells("5f7e1192-df68-467a-84eb-77b80720f4e9","beta cells of Islets of Langerhans").
+organCells("b14cd67a-cd47-4d42-bc97-d5e7c0d83fda","Cardiac myocytes").
+organCells("7b71e56f-309c-4f38-9f03-4f0b4e233089","Chromaffin cells").
+organCells("ff27d506-3e33-425c-93bd-795bc9398939","corticotrope").
+organCells("b97d54a6-7417-4085-90f8-6cab8caf5efd","Corticotropes").
+organCells("f2613d19-8fca-40c6-9434-8a3f4da3a5f9","Decidual cells").
+organCells("bde84f60-23f0-4f8f-8d2a-27b14f0a75cc","delta cells in islets").
+organCells("fc04e3f7-2188-4973-b812-27c4b2610636","Neuroendocrince cells of the Periventricular nucleus in hypothalamus").
+organCells("8be80491-64b5-4bdf-908e-20b6855420be","Endothelial cells").
+organCells("cdd72263-520d-4f6b-a8c5-b6f0d34f8d3c","Extraglomerular mesangial cells").
+organCells("e1471e8e-3022-42e2-846d-f4ac36ecdaea","G cell").
+organCells("e9257dd3-cab8-42e5-ae82-3084b07d5b3a","gonadotrope").
+organCells("acb42032-8a3b-4bc0-b8e8-954b5ba50970","gonadotropes").
+organCells("b265d65e-f7e3-49f8-a2ff-fadeab88e3f8","Hepatocytes").
+organCells("a0fd5479-c84b-4609-8ea6-c23480c248d5","inhibitory neurons").
+organCells("51d1295e-9e79-45de-9179-bdca5212ca72","Juxtaglomerular cells").
+organCells("db92f55e-81f6-4763-b64e-7c5cb032d103","K cell").
+organCells("0af8820b-a70d-4279-a0e4-752275509a4a","L cells").
+organCells("afcf84ff-364d-49bc-9391-a8fdcb893991","lactotrophs of anterior pituitary").
+organCells("18e85692-b757-42b7-9fe1-7394ff9d2936","Decidual cells of uterus").
+organCells("02a0b22b-212a-471c-ac60-a2cf09fb8679","Magnocellular neurosecretory cells").
+organCells("823d611d-21c6-4adf-8507-97d85bdcc534","Melanotroph").
+

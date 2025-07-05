@@ -1,0 +1,50 @@
+CellId,TissueId,Name
+d864f399-3b9e-4961-b61c-ab071c245651,30355882-489f-47ad-9f8c-90a50483c02b,Zona reticularis
+0e379c9d-fdd6-4cae-a69a-c339beb70669,d21e3c63-5d7a-4e27-8694-e0dd1ad561a9,Proximal tubule
+eb463eac-e2b2-4c45-857a-98f1a0d8420e,30355882-489f-47ad-9f8c-90a50483c02b,Zona glomerulosa
+ed6b9d5f-f83e-49d1-ba7e-c4f832d8a878,00c46f6a-5598-4a46-ac1c-41686d21d1ff,Leydig cells
+134b51b1-f10f-4ac4-90fa-282df82f09d9,30355882-489f-47ad-9f8c-90a50483c02b,Zona fasciculata
+73a070a0-98b2-42a1-9b6b-9f7689196c32,4f9fa0b5-c118-4147-93bb-01a69c7c3692,Theca cells
+d556bfa9-506d-4dae-b1cb-29480a63af71,9566f4f3-ced2-4aac-ba70-fd38e35faa28,Parvocellular neurosecretory neurons
+99cf6b47-8c2d-4081-9a16-1124518c86a4,06629bd4-54b9-47ba-8818-71f4aa003192,White blood cells
+8545772f-ef44-4b04-a8f4-fb99370e0ea3,229edda3-f2b6-4ef2-bdfe-d13af46231be,Syncytiotrophoblast
+31ac0451-ae33-476f-a1ea-3688aa1eed0e,6c8b6e07-ff2b-4630-8fd7-56ffa7643e82,Adipocytes
+56beb6ac-1581-4ef8-add0-a2e258f236c9,4f011433-f99f-46dc-92c3-03118cfdcd09,Granulosa cells
+227f0bb9-98e1-4090-b9e4-7bda396eb872,00c46f6a-5598-4a46-ac1c-41686d21d1ff,Sertoli cell
+e764d396-0bd3-4d2c-831d-f9822f5edffd,5c9a1289-88e8-491d-be4a-7a304307613c,Thyrotropes
+0da1cb18-375a-4f9f-9364-042a82f560ff,dfcf7844-d9d2-4c07-b5a6-fc20332cc0ae,S cell
+54744cc6-de5d-4559-8821-3a2650dc9ca3,766e1afc-231e-49f0-b5ad-85832af040f9,Thyroid follicular cell
+87dc620e-a743-4658-87ec-534f79f78d17,5c9a1289-88e8-491d-be4a-7a304307613c,Somatotropes
+98ebcbfe-9b0c-42a2-9910-9cfbf30d960d,7120040e-5663-4e6d-a255-b4d89390a1b0,Trophoblasts
+398f3b73-faf0-4e4f-bbfd-770b805ad1c4,dca077a3-0d21-4916-b5c1-2dff3178a1e5,PP cells
+73eb5c3e-53d7-4a27-997e-cd08cc7c72fa,30c9912c-0da3-449d-9a5b-26b9a7c26c42,Pinealocyte
+6104d63b-eda1-4f18-8b98-304339ab6a80,1a352f80-de5d-4b1d-ac3f-73934469ca26,Parvocellular neurosecretory neurons
+945689cb-ae00-4d24-acc1-4364cc44c9a0,ac12fe00-1d01-407a-8fea-996b3a9c0e0f,Parathyroid chief cell
+25914768-cf01-403a-bc68-336cef0ee8dd,06629bd4-54b9-47ba-8818-71f4aa003192,Platelets
+13707241-ac50-4a64-901b-cf971cfdb7c4,1a352f80-de5d-4b1d-ac3f-73934469ca26,Magnocellular neurosecretory cells
+1e6dcf34-bc3e-4974-9d8e-aa6f850a1c3b,2b9febac-f137-450b-9498-f503db869f8b,Parafollicular cell
+5f7e1192-df68-467a-84eb-77b80720f4e9,dca077a3-0d21-4916-b5c1-2dff3178a1e5,Beta cells of Islets of Langerhans
+e83dcb1a-ae5e-4656-8eed-6247e82fb00f,dca077a3-0d21-4916-b5c1-2dff3178a1e5,Pancreatic β-cells
+e124201a-479b-4117-b21e-b8f5712486e5,990705cc-f1e4-4e5f-8053-076e4f512f87,Osteoblasts
+ac3631f0-74a3-44d7-a58a-e6945c7179b1,f93a8749-28f2-492b-9adb-9981d4f2edd5,P/D1 cell
+0545956b-c68f-4c37-90a4-6c4887f69a4f,33fff50b-ad10-4299-a0ae-1b34209ee08e,Myocytes
+3eabae9e-be85-44ba-885a-4e0ee4343a40,dca077a3-0d21-4916-b5c1-2dff3178a1e5,Alpha cells of Islets of Langerhans
+7b71e56f-309c-4f38-9f03-4f0b4e233089,b05a3958-5941-4986-9e15-138e88746258,Chromaffin cells
+bde84f60-23f0-4f8f-8d2a-27b14f0a75cc,dca077a3-0d21-4916-b5c1-2dff3178a1e5,Delta cells in islets
+b14cd67a-cd47-4d42-bc97-d5e7c0d83fda,7cdbfb86-4dff-4dfb-ab41-a93289ddde2c,Cardiac myocytes
+f2613d19-8fca-40c6-9434-8a3f4da3a5f9,5d0c2b3f-3f75-4f00-9a4a-b3fa693d5ca8,Decidual cells
+ff27d506-3e33-425c-93bd-795bc9398939,5c9a1289-88e8-491d-be4a-7a304307613c,Corticotrope
+fc04e3f7-2188-4973-b812-27c4b2610636,fa5d6903-7b7b-46b3-8409-d16b27a41b7f,Neuroendocrince cells
+cdd72263-520d-4f6b-a8c5-b6f0d34f8d3c,d21e3c63-5d7a-4e27-8694-e0dd1ad561a9,Extraglomerular mesangial cells
+acb42032-8a3b-4bc0-b8e8-954b5ba50970,5c9a1289-88e8-491d-be4a-7a304307613c,Gonadotropes
+a0fd5479-c84b-4609-8ea6-c23480c248d5,bfad369f-a065-4197-af40-7cdf2f72ca8a,Inhibitory neurons
+e1471e8e-3022-42e2-846d-f4ac36ecdaea,f93a8749-28f2-492b-9adb-9981d4f2edd5,G cell
+b265d65e-f7e3-49f8-a2ff-fadeab88e3f8,0cd8c836-32d2-40d3-a590-37e6ce9e37d7,Hepatocytes
+8be80491-64b5-4bdf-908e-20b6855420be,f9270a70-775b-478c-8867-70315f55f747,Endothelial cells
+afcf84ff-364d-49bc-9391-a8fdcb893991,5c9a1289-88e8-491d-be4a-7a304307613c,Lactotrophs of anterior pituitary
+823d611d-21c6-4adf-8507-97d85bdcc534,196573db-b6d2-41f4-b083-ab763e6772cf,Melanotroph
+db92f55e-81f6-4763-b64e-7c5cb032d103,dfcf7844-d9d2-4c07-b5a6-fc20332cc0ae,K cell
+51d1295e-9e79-45de-9179-bdca5212ca72,d21e3c63-5d7a-4e27-8694-e0dd1ad561a9,Juxtaglomerular cells
+02a0b22b-212a-471c-ac60-a2cf09fb8679,9566f4f3-ced2-4aac-ba70-fd38e35faa28,Magnocellular neurosecretory cells
+0af8820b-a70d-4279-a0e4-752275509a4a,5d726976-ff44-43cb-85ac-ff3b971e78e9,L cells
+18e85692-b757-42b7-9fe1-7394ff9d2936,5d0c2b3f-3f75-4f00-9a4a-b3fa693d5ca8,Decidual cells of uterus

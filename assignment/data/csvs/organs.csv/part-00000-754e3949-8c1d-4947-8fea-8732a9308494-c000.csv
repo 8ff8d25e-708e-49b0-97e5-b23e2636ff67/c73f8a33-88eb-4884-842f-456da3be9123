@@ -1,0 +1,33 @@
+OrganId,Abbr,Name,Male,Female
+33934e5f-c04f-4ca9-a1ca-8ed904a9b6f1,adrenal,Adrenal Gland,true,true
+1a352f80-de5d-4b1d-ac3f-73934469ca26,hyp,Hypthalamus,true,true
+30c9912c-0da3-449d-9a5b-26b9a7c26c42,PG,Pineal gland,true,true
+196573db-b6d2-41f4-b083-ab763e6772cf,PT,Pituitary gland,true,true
+93d53bca-9ab4-4ccb-8cd5-7286af9497c2,PN,Pancreas,true,true
+f93a8749-28f2-492b-9adb-9981d4f2edd5,ST,Stomach,true,true
+229edda3-f2b6-4ef2-bdfe-d13af46231be,PL,Placenta,false,true
+c218672e-80dd-490e-9ba7-3989bb7a2e51,TH,Thymus,true,true
+00c46f6a-5598-4a46-ac1c-41686d21d1ff,TS,Testes,true,false
+0cd8c836-32d2-40d3-a590-37e6ce9e37d7,LV,Liver,true,true
+4f9fa0b5-c118-4147-93bb-01a69c7c3692,OV,Ovary,false,true
+5d0c2b3f-3f75-4f00-9a4a-b3fa693d5ca8,UT,Uterus,false,true
+10e38938-74f4-4e3d-ab5e-3f6280b5ea62,TH,Thyroid,true,true
+06629bd4-54b9-47ba-8818-71f4aa003192,BL,Blood,true,true
+f9270a70-775b-478c-8867-70315f55f747,BV,Blood vessels,true,true
+66ff7aec-e9a6-4504-8d0a-7bc657b6d5aa,PT,Parathyroid,true,true
+0f8bdfab-7bd6-4961-b1b1-b23c6a354392,AT,Adipose tissue,true,true
+12133ed4-e833-47bf-9e0a-77e7d746214a,HT,Heart,true,true
+dfcf7844-d9d2-4c07-b5a6-fc20332cc0ae,DU,Duodenum,true,true
+d21e3c63-5d7a-4e27-8694-e0dd1ad561a9,KD,Kidney,true,true
+22ac9ae0-8fdb-4d5b-8aea-914c538cad9c,SI,Small Intestine,true,true
+80925011-5214-4e57-8d71-503e2c522c18,LI,Large Intestine,true,true
+d3e15a67-51ad-46ba-a4bd-efe69eefd3db,VE,Vascular endothelium,true,true
+309bd0d8-2f13-4d0c-a218-33f95c24f555,IL,Ileum,true,true
+2aba63f2-d10f-4a05-b2cd-ed773089551f,SN,Skin,true,true
+2b5274fe-3a46-4f45-8c3f-ba7a9276ae67,MG,Mammary gland,true,true
+7120040e-5663-4e6d-a255-b4d89390a1b0,FT,Fetus,true,true
+990705cc-f1e4-4e5f-8053-076e4f512f87,SK,Skeleton,true,true
+7cb43e95-357e-46fc-909a-79f229e38f4e,GS,Gastro Intest,true,true
+4f011433-f99f-46dc-92c3-03118cfdcd09,OO,Oocyte,false,true
+bfad369f-a065-4197-af40-7cdf2f72ca8a,NS,Nervous system,true,true
+75c9c650-5b95-4497-b389-10eba7fe18a2,MB,Brain,true,true

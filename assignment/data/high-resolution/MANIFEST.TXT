@@ -1,0 +1,15 @@
+Data files/HABS 1.csv (text/comma-separated-values) 21286 bytes.
+Data dictionaries/ultradian-912.csv (text/comma-separated-values) 6726 bytes.
+Data files/redcap_controls.csv (text/comma-separated-values) 234645 bytes.
+Data files/HABS 7.csv (text/comma-separated-values) 21738 bytes.
+Data files/form_912_controls.csv (text/comma-separated-values) 13105 bytes.
+Data files/HABS 5.csv (text/comma-separated-values) 21434 bytes.
+Data files/HABS 6.csv (text/comma-separated-values) 19940 bytes.
+Data dictionaries/ultradian-914.csv (text/comma-separated-values) 11876 bytes.
+Data dictionaries/DynamicHormoneDiagnostics_DataDictionary_2022-03-02.csv (text/comma-separated-values) 48202 bytes.
+00_README.txt (text/plain) 8201 bytes.
+Data files/HABS 4.csv (text/comma-separated-values) 20944 bytes.
+Data files/form_914_controls.csv (text/comma-separated-values) 37978 bytes.
+Data files/HABS 3.csv (text/comma-separated-values) 19386 bytes.
+Data files/md_data_controls.csv (text/comma-separated-values) 1720766 bytes.
+Data files/HABS 2.csv (text/comma-separated-values) 21180 bytes.

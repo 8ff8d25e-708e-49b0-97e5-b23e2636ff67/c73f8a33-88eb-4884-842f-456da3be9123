@@ -1,0 +1,22 @@
+TissueId,OrganId,Name
+258e986a-4e56-42bb-9e7a-a5800cb61fb0,2aba63f2-d10f-4a05-b2cd-ed773089551f,Cerebral cortex
+30355882-489f-47ad-9f8c-90a50483c02b,33934e5f-c04f-4ca9-a1ca-8ed904a9b6f1,Adrenal cortex
+5d726976-ff44-43cb-85ac-ff3b971e78e9,22ac9ae0-8fdb-4d5b-8aea-914c538cad9c,Ileum
+b05a3958-5941-4986-9e15-138e88746258,33934e5f-c04f-4ca9-a1ca-8ed904a9b6f1,Adrenal medulla
+081f7903-2217-49f6-b9ad-6199cd28b230,22ac9ae0-8fdb-4d5b-8aea-914c538cad9c,Jejunum
+766e1afc-231e-49f0-b5ad-85832af040f9,10e38938-74f4-4e3d-ab5e-3f6280b5ea62,Peripheral tissue
+345541fe-1a39-4a9b-b01e-ad68c23441b4,75c9c650-5b95-4497-b389-10eba7fe18a2,Substantia nigra
+9566f4f3-ced2-4aac-ba70-fd38e35faa28,196573db-b6d2-41f4-b083-ab763e6772cf,Posteria pituatory
+5c9a1289-88e8-491d-be4a-7a304307613c,196573db-b6d2-41f4-b083-ab763e6772cf,Anterior pituatory
+4c09153f-31d5-4012-bd55-a91b8dc68f9b,f93a8749-28f2-492b-9adb-9981d4f2edd5,Gastric Mucosa
+fa5d6903-7b7b-46b3-8409-d16b27a41b7f,1a352f80-de5d-4b1d-ac3f-73934469ca26,Periventricular nucleus
+e99a3653-ad9d-443f-ba4c-80d8cb9d3f54,196573db-b6d2-41f4-b083-ab763e6772cf,Pars intermedia
+4c09153f-31d5-4012-bd55-a91b8dc68f9b,22ac9ae0-8fdb-4d5b-8aea-914c538cad9c,Small Intestine Mucosa
+2b9febac-f137-450b-9498-f503db869f8b,10e38938-74f4-4e3d-ab5e-3f6280b5ea62,Thyroid
+ac12fe00-1d01-407a-8fea-996b3a9c0e0f,10e38938-74f4-4e3d-ab5e-3f6280b5ea62,Parathyroid
+234c7200-0d6b-495e-8746-0545c4ed275c,4f9fa0b5-c118-4147-93bb-01a69c7c3692,Corpus luteum
+dca077a3-0d21-4916-b5c1-2dff3178a1e5,93d53bca-9ab4-4ccb-8cd5-7286af9497c2,Islets of Langerhans
+36b26398-9c0d-4c89-ad7e-2973d92c0bde,1a352f80-de5d-4b1d-ac3f-73934469ca26,Suprachiasmatic nuclei
+33fff50b-ad10-4299-a0ae-1b34209ee08e,"",Muscle
+6c8b6e07-ff2b-4630-8fd7-56ffa7643e82,"",Adipose tissue
+7cdbfb86-4dff-4dfb-ab41-a93289ddde2c,12133ed4-e833-47bf-9e0a-77e7d746214a,Cardiac muscle

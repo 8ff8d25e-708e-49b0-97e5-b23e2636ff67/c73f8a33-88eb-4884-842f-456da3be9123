@@ -1,0 +1,155 @@
+FormId	ItemId	VarName	LoincScale	UnitStr	ItemText	Expression	MinExpression	MaxExpression	ItemHelp	Decimals	OrderNumber2	OptionText
+914		MasterId	ORD									
+914	2618	HEALTHY_SUBSTUDY	ORD		Sampling purpose (controls)						1	Normal 24h profile
+914	2618	HEALTHY_SUBSTUDY	ORD		Sampling purpose (controls)						2	Day to day variability
+914	2618	HEALTHY_SUBSTUDY	ORD		Sampling purpose (controls)						3	Comparison of tissue and blood hormones
+914	1209	SAMPLING_SUCCESS	ORD		Technically successful sampling						1	Yes
+914	1209	SAMPLING_SUCCESS	ORD		Technically successful sampling						2	No
+914	1391	SAMPLING_APPROVAL_STATUS	ORD		Sample approval status						1	Include
+914	1391	SAMPLING_APPROVAL_STATUS	ORD		Sample approval status						2	Sampling issue (discarded)
+914	1391	SAMPLING_APPROVAL_STATUS	ORD		Sample approval status						3	Transport issue (discarded)
+914	1391	SAMPLING_APPROVAL_STATUS	ORD		Sample approval status						4	Analysis issue (discarded)
+914	1391	SAMPLING_APPROVAL_STATUS	ORD		Sample approval status						5	Other issue (discarded)
+914	1392	SAMPLING_COMMENT	NAR		Comment							
+914	3188	SAMPLING_ESTROGEN	ORD		Estrogen use						1	Yes
+914	3188	SAMPLING_ESTROGEN	ORD		Estrogen use						2	No
+914	3226	WAIST	QN	cm	Waist circumference in centimeters		40	250	"Midway between costal arc and iliac spine, measured after expiration"			
+914	2154	HIP	QN	cm	Hip circumference in centimeters		40	250				
+914	2155	WAIST_HIP_RATIO	QN	ratio	Waist Hip Ratio	WAIST/HIP	0.1	10		2		
+914	3230	SYSBP	QN	mmHg	Systolic BP		50	250				
+914	3231	DIABP	QN	mmHg	Diastolic BP		30	150				
+914	3225	HEIGHT	QN	cm	Height in centimeters		120	220				
+914	3224	WEIGHT	QN	kg	Weight in kilograms		10	400		1		
+914	3310	BMI	QN	kg/m2	BMI	WEIGHT/((HEIGHT/100)*(HEIGHT/100)) * ISPOS(WEIGHT)*ISPOS(HEIGHT)	5	150	Calculated from Weight and Height	1		
+914	3192	SAMPLING_START_HOUR	QN		Sampling start hour		0	23				
+914	3194	SAMPLING_START_MIN	QN		Sampling start minute		0	59				
+914	3198	SAMPLING_CATHETER	ORD		Catheter size						1	20 kD
+914	3198	SAMPLING_CATHETER	ORD		Catheter size						2	100 kD
+914	3199	SAMPLING_SAMPLER_ID	QN		Sampler ID		1	100				
+914	3212	SAMPLING_STOP_HOUR	QN		Sampling stop hour		0	23				
+914	3213	SAMPLING_STOP_MIN	QN		Sampling stop minute		0	59				
+914	6097	SAMPLE_LAST_WELL	QN		Position of last sample in well		30	76				
+914	6057	SAMPLES_DISCARDED	QN		Number of discarded samples		0	9				
+914	6098	SAMPLE_OUTLIER	ORD		Outlier						1	Yes
+914	6098	SAMPLE_OUTLIER	ORD		Outlier						2	No
+914	6099	SAMPLE_OUTLIER_TEXT	NAR		Why is this sample marked as an outlier?							
+914	3214	SAMPLING_RXN	ORD		RXN						1	Skin
+914	3214	SAMPLING_RXN	ORD		RXN						2	Sampler
+914	3214	SAMPLING_RXN	ORD		RXN						3	Combination
+914	3214	SAMPLING_RXN	ORD		RXN						4	Other
+914	3214	SAMPLING_RXN	ORD		RXN						5	None
+914	3215	SAMPLING_QUALITY	ORD		Sampling quality						1	Good
+914	3215	SAMPLING_QUALITY	ORD		Sampling quality						2	Usable
+914	3215	SAMPLING_QUALITY	ORD		Sampling quality						3	Poor
+914	3216	SALIVA_1_HOUR	QN		"Saliva 1, hour"		0	23	Evening time			
+914	3217	SALIVA_1_MIN	QN		"Saliva 1, minute"		0	59	Evening time			
+914	3219	SALIVA_2_HOUR	QN		"Saliva 2, hour"		0	23	Awakening time			
+914	3222	SALIVA_2_MIN	QN		"Saliva 2, minute"		0	59	Awakening time			
+914	3223	SALIVA_3_HOUR	QN		"Saliva 3, hour"		0	23	Thirty minutes after awakening			
+914	3232	SALIVA_3_MIN	QN		"Saliva 3, minute"		0	59	Thirty minutes after awakening			
+914	3265	CUSH_TIMELINE	ORD		Sampling timeline						1	Preoperative
+914	3265	CUSH_TIMELINE	ORD		Sampling timeline						2	Postoperative
+914	3266	CUSH_HIST_DX	ORD		Histological diagnosis						1	Adenoma
+914	3266	CUSH_HIST_DX	ORD		Histological diagnosis						2	Carcinoma
+914	3266	CUSH_HIST_DX	ORD		Histological diagnosis						3	Hyperplasia
+914	3266	CUSH_HIST_DX	ORD		Histological diagnosis						4	Other
+914	3267	CUSH_SURG_DATE	DATE		Date of surgery							
+914	3518	CUSH_SURG_MONTHS_AGO	QN	month(s)	Months after surgery (calculated)	( SAMPLING_DATE - CUSH_SURG_DATE ) / 30	0	99		1		
+914	3272	CUSH_POSTOP_CORT	ORD		Postoperative cortisol replacement						1	Yes
+914	3272	CUSH_POSTOP_CORT	ORD		Postoperative cortisol replacement						2	No
+914	3278	CUSH_POSTOP_INHIBITOR	ORD		Steroidogenesis inhibitor						1	Yes
+914	3278	CUSH_POSTOP_INHIBITOR	ORD		Steroidogenesis inhibitor						2	No
+914	3279	CORT_BLOOD_MORNING	QN	nmol/L	Basal S-Cortisol		0	2000	"Morning value, cortisol replacement withheld. Leave empty if there is no data available, use 0 for below limit of detection."			
+914	3280	ACTH_MORNING	QN	pmol/L	Basal S-ACTH		0	300	"Morning value, cortisol replacement withheld. Leave empty if there is no data available, use 0 for below limit of detection."	1		
+914	3281	CUSH_SYNACTH_CORT	QN	nmol/24h	Maximum S-Cortisol after Synacthen		10	2000				
+914	4201	CORT_24H_URINE	QN	nmol/24h	24-hour Urine Cortisol			2889	Use 2889 for values greater than 2888 nmol/24h.			
+914	4206	CORT_BLOOD_NIGHT	QN	nmol/L	Midnight S-Cortisol			5000				
+914	4208	CORT_SALIVA	QN	nmol/L	Late night Salivary Cortisol			5000				
+914	4202	SHORT_DEX_CORT_VALUE	QN	nmol/L	Short dexa-test S-Cortisol			1000				
+914	3519	CUSH_REMISSION	ORD		Clinically in remission						1	Yes
+914	3519	CUSH_REMISSION	ORD		Clinically in remission						2	No
+914	3519	CUSH_REMISSION	ORD		Clinically in remission						3	Unsure
+914	3519	CUSH_REMISSION	ORD		Clinically in remission						4	Unsure
+914	3533	ALDO_CA_BLOCKER	ORD		Use of calcium blocker during sampling						1	No
+914	3533	ALDO_CA_BLOCKER	ORD		Use of calcium blocker during sampling						2	"Yes - Dihydropyridines (e.g.Adalat, Norvasc)"
+914	3533	ALDO_CA_BLOCKER	ORD		Use of calcium blocker during sampling						3	Yes - Non-dihydropyridines (e.g. Isoptin )
+914	3534	ALDO_ALPHA_BLOCKER	ORD		Use of alpha blocker during sampling						1	Yes
+914	3534	ALDO_ALPHA_BLOCKER	ORD		Use of alpha blocker during sampling						2	No
+914	3535	ALDO_MOXONIDE	ORD		Use of moxonidine during sampling						1	Yes
+914	3535	ALDO_MOXONIDE	ORD		Use of moxonidine during sampling						2	No
+914	3536	ALDO_K_SUPP	ORD		Use of potassium supplement during sampling						1	Yes
+914	3536	ALDO_K_SUPP	ORD		Use of potassium supplement during sampling						2	No
+914	3537	ALDO_K_VALUE	QN	mmol/L	S-Potassium value at sampling		1	6		1	1	Yes
+914	3537	ALDO_K_VALUE	QN	mmol/L	S-Potassium value at sampling		1	6		1	2	No
+914	3538	ALDO_ESTROGEN	ORD		Estrogen use last 6 weeks						1	Yes
+914	3538	ALDO_ESTROGEN	ORD		Estrogen use last 6 weeks						2	No
+914	3539	ALDO_TIMELINE	ORD		Postoperative sampling						1	Yes
+914	3539	ALDO_TIMELINE	ORD		Postoperative sampling						2	No
+914	9079	ALDO_HIST_DX	ORD		Histological diagnosis						1	Adenoma
+914	9079	ALDO_HIST_DX	ORD		Histological diagnosis						2	Carcinoma
+914	9079	ALDO_HIST_DX	ORD		Histological diagnosis						3	Hyperplasia
+914	9079	ALDO_HIST_DX	ORD		Histological diagnosis						4	Other
+914	3540	ALDO_SURG_DATE	DATE		Surgery date							
+914	3541	ALDO_BP_MED_POSTOP	QN		Number of antihypertensives used now		0	6	Ignore changes related to sampling			
+914	3520	ULT_ALDOSTERONE	QN	pmol/L	P-Aldosterone		20	5000	Day of sampling Bristol and Bergen			
+914	3649	ULT_ALDOSTERONE_ATHENS	QN	ng/dL	P-Aldosterone		1	5000	Day of sampling Athens	1		
+914	3523	ALDO_RRR	ORD		S-Aldosteron relative to reference range						1	Below
+914	3523	ALDO_RRR	ORD		S-Aldosteron relative to reference range						2	Within
+914	3523	ALDO_RRR	ORD		S-Aldosteron relative to reference range						3	Above
+914	3521	ULT_RENIN_BERGEN	QN	mIE/L	P-Renin		0	500	Day of sampling Bergen. Lower detection limit 2.0 mIE/L	1		
+914	3655	ULT_RENIN_ATHENS	QN	µU/mL	P-Renin		0	500	Day of sampling Athens. Lower detection limit 0.5 µU/mL	1		
+914	3635	ULT_RENIN_BRISTOL	QN	nmol/L/h	P-Renin activity		0	10	Day of sampling Bristol. Lower detection limit 0.2 nmol/L/h	1		
+914	3524	RENIN_RRR	ORD		P-Renin (activity or concentration) relative to reference range						1	Below
+914	3524	RENIN_RRR	ORD		P-Renin (activity or concentration) relative to reference range						2	Within
+914	3524	RENIN_RRR	ORD		P-Renin (activity or concentration) relative to reference range						3	Above
+914	3522	ULT_ARR	QN	ratio	ARR		0	5000	Aldosterone / Renin Ratio	1		
+914	3525	ARR_RRR	ORD		ARR relative to reference range						1	Below
+914	3525	ARR_RRR	ORD		ARR relative to reference range						2	Within
+914	3525	ARR_RRR	ORD		ARR relative to reference range						3	Above
+914	4660	PAI_DX_DATE	QN		Year of diagnosis (Addison)							
+914	4655	PAI_HYPO_THY	ORD		HypOthyreosis						1	Yes
+914	4655	PAI_HYPO_THY	ORD		HypOthyreosis						2	No
+914	4656	PAI_HYPER_THY	ORD		HypERthyreosis						1	Yes
+914	4656	PAI_HYPER_THY	ORD		HypERthyreosis						2	No
+914	4657	PAI_T1DM	ORD		Diabetes Type 1						1	Yes
+914	4657	PAI_T1DM	ORD		Diabetes Type 1						2	No
+914	4658	PAI_POI	ORD		Primary Ovarian Insufficiency						1	Yes
+914	4658	PAI_POI	ORD		Primary Ovarian Insufficiency						2	No
+914	4659	PAI_CELIAC	ORD		Coeliac disease						1	Yes
+914	4659	PAI_CELIAC	ORD		Coeliac disease						2	No
+914	4654	PAI_AAG	ORD		Autoimmune atrophic gastritis						1	Yes
+914	4654	PAI_AAG	ORD		Autoimmune atrophic gastritis						2	No
+914	4661	GC_REPLACEMENT_TYPE	ORD		Glucocorticoid replacement						1	Hydrocortisone
+914	4661	GC_REPLACEMENT_TYPE	ORD		Glucocorticoid replacement						2	Cortisone acetate
+914	4661	GC_REPLACEMENT_TYPE	ORD		Glucocorticoid replacement						3	Plenadren
+914	4661	GC_REPLACEMENT_TYPE	ORD		Glucocorticoid replacement						4	Prednisolone
+914	4661	GC_REPLACEMENT_TYPE	ORD		Glucocorticoid replacement						5	Pump
+914	4986	GC_PUMP_DOSE	QN	mg/24h	Pump dose mg/day		10	50		2		
+914	4669	GC_DOSE_1_TIME	QN		Dose #1 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4663	GC_ACTUAL_DOSE_1	QN	mg	Dose #1 mg		1	50		2		
+914	4979	HC_EQUIVALENT_DOSE_1	QN	mg	Dose #1 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_1	0.8	200		2		
+914	4664	GC_DOSE_2_TIME	QN		Dose #2 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4670	GC_ACTUAL_DOSE_2	QN	mg	Dose #2 mg		1	50		2		
+914	4980	HC_EQUIVALENT_DOSE_2	QN	mg	Dose #2 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_2	0.8	200		2		
+914	4665	GC_DOSE_3_TIME	QN		Dose #3 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4671	GC_ACTUAL_DOSE_3	QN	mg	Dose #3 mg		1	50		2		
+914	4981	HC_EQUIVALENT_DOSE_3	QN	mg	Dose #3 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_3	0.8	200		2		
+914	4666	GC_DOSE_4_TIME	QN		Dose #4 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4672	GC_ACTUAL_DOSE_4	QN	mg	Dose #4 mg		1	50		2		
+914	4982	HC_EQUIVALENT_DOSE_4	QN	mg	Dose #4 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_4	0.8	200		2		
+914	4667	GC_DOSE_5_TIME	QN		Dose #5 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4673	GC_ACTUAL_DOSE_5	QN	mg	Dose #5 mg		1	50		2		
+914	4983	HC_EQUIVALENT_DOSE_5	QN	mg	Dose #5 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_5	0.8	200		2		
+914	4668	GC_DOSE_6_TIME	QN		Dose #6 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4674	GC_ACTUAL_DOSE_6	QN	mg	Dose #6 mg		1	50		2		
+914	4984	HC_EQUIVALENT_DOSE_6	QN	mg	Dose #6 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_6	0.8	200		2		
+914	4662	GC_DOSE_7_TIME	QN		Dose #7 time		0	2359	"Use 700 for 7 am, 1300 for 1 pm etc."			
+914	4679	GC_ACTUAL_DOSE_7	QN	mg	Dose #7 mg		1	50		2		
+914	4985	HC_EQUIVALENT_DOSE_7	QN	mg	Dose #7 mg hc equivalent	GC_REPLACEMENT_TYPE_SCORE * GC_ACTUAL_DOSE_7	0.8	200		2		
+914	4677	MR_DOSE_1_TIME	QN		Dose #1 time		0	2359				
+914	4680	MR_DOSE_1_MG	QN	mg	Dose #1 mg		0	50		2		
+914	4678	MR_DOSE_2_TIME	QN		Dose #2 time		0	2359				
+914	4675	MR_DOSE_2_MG	QN	mg	Dose #2 mg		0	50		2		
+914	4676	MR_DOSE_3_TIME	QN		Dose #3 time		0	2359				
+914	4681	MR_DOSE_3_MG	QN	mg	Dose #3 mg		0	50		2		
+		Age	ORD		Age at time of sampling		0	100			Age in years at the time sampling occurred	

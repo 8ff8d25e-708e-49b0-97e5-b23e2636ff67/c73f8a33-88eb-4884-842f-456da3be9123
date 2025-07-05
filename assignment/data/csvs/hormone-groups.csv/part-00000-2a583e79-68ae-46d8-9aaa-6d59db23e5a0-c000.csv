@@ -1,0 +1,9 @@
+GroupId,TypeId,Name,Role
+ae58be42-cd68-4821-9e7c-70792aa7fb38,009c7913-2eae-42a3-8a5b-0b9b7f26a2db,Peptide,"crucial regulators of various bodily functions, including metabolism, growth, stress responses, and reproduction, by binding to receptors on target cells and initiating intracellular signaling pathways"
+6b539c79-feb0-429d-bdb1-66fa6a826c7d,e458a582-fd95-480d-9331-4a2e9ea1d647,Androgen,Stimulate masculinization
+6a2e198e-8cfe-41c1-98af-73b4f8c39653,e458a582-fd95-480d-9331-4a2e9ea1d647,Estrogen,a sex hormone primarily known for its role in female sexual and reproductive health
+d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,e458a582-fd95-480d-9331-4a2e9ea1d647,Glucocorticoid,Regulate glucose metabolism
+5544c99e-eaa7-4c01-aae5-f4489688c0ad,e458a582-fd95-480d-9331-4a2e9ea1d647,Progestogen,prepares the uterus for pregnancy and maintains it during pregnancy
+1027a4d0-df4f-455f-9a36-9998c0aaff63,e458a582-fd95-480d-9331-4a2e9ea1d647,Secosteroid,"an important regulator of calcium homeostasis and bone metabolism via actions in the intestine, bone, kidney, and parathyroid glands"
+ecb0e3d1-1123-4e66-a6a8-d71ef493606e,e458a582-fd95-480d-9331-4a2e9ea1d647,Mineralcorticoid,Regulate mineral balance
+01f6b025-06a1-462d-9076-05557e411c78,11b3086d-1224-4f63-af0c-35e9842c07c0,Catecholomines,Stimulate sympathetic ANS

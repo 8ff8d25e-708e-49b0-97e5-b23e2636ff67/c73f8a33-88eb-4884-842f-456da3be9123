@@ -1,0 +1,38 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.18.2
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/tmpj0zizlcs/.npmrc
+5 silly config load:file:/notebooks/.npmrc
+6 silly config load:file:/etc/npmrc
+7 verbose title npm pack /extensions/vadalog-extension
+8 verbose argv "pack" "/extensions/vadalog-extension"
+9 verbose logfile logs-max:10 dir:/notebooks/.npm/_logs/2025-06-21T19_12_51_934Z-
+10 verbose logfile /notebooks/.npm/_logs/2025-06-21T19_12_51_934Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 http fetch GET 200 https://registry.npmjs.org/npm 103ms
+14 verbose stack Error: command failed
+14 verbose stack     at promiseSpawn (/usr/lib/node_modules/npm/node_modules/@npmcli/promise-spawn/lib/index.js:22:22)
+14 verbose stack     at spawnWithShell (/usr/lib/node_modules/npm/node_modules/@npmcli/promise-spawn/lib/index.js:124:10)
+14 verbose stack     at promiseSpawn (/usr/lib/node_modules/npm/node_modules/@npmcli/promise-spawn/lib/index.js:12:12)
+14 verbose stack     at runScriptPkg (/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/run-script-pkg.js:77:13)
+14 verbose stack     at runScript (/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/run-script.js:9:12)
+14 verbose stack     at /usr/lib/node_modules/npm/node_modules/pacote/lib/dir.js:41:14
+15 verbose pkgid vadalog-extension@3.0.0
+16 error code 1
+17 error path /extensions/vadalog-extension
+18 error command failed
+19 error command sh -c npm run clean && npm run build
+20 verbose cwd /tmp/tmpj0zizlcs
+21 verbose os Linux 6.1.134-152.225.amzn2023.x86_64
+22 verbose node v20.18.2
+23 verbose npm  v10.8.2
+24 notice
+24 notice New major version of npm available! 10.8.2 -> 11.4.2
+24 notice Changelog: https://github.com/npm/cli/releases/tag/v11.4.2
+24 notice To update run: npm install -g npm@11.4.2
+24 notice  { force: true, [Symbol(proc-log.meta)]: true }
+25 verbose exit 1
+26 verbose code 1
+27 error A complete log of this run can be found in: /notebooks/.npm/_logs/2025-06-21T19_12_51_934Z-debug-0.log

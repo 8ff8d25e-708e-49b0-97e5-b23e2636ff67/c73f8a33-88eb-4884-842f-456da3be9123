@@ -1,0 +1,79 @@
+FormId	ItemId	VarName	LoincScale	UnitStr	ItemText	Expression	MinExpression	MaxExpression	ItemHelp	Decimals	OrderNumber2	OptionText
+912		MasterId	QN		MasterID		1	99999				
+912	3172	ULT_SMOKER	ORD		Current smoker						1	Yes
+912	3172	ULT_SMOKER	ORD		Current smoker						2	No
+912	3225	HEIGHT	QN	cm	Height in centimeters		50	220				
+912	3517	CUSH_CAUSE	ORD		Etiology						1	Adrenal
+912	3517	CUSH_CAUSE	ORD		Etiology						2	Pituitary
+912	3517	CUSH_CAUSE	ORD		Etiology						3	Unknown
+912	4270	PETROSAL_SAMPLING_POSITI	ORD		Positive bilateral petrosal sinus sampling						1	Yes
+912	4270	PETROSAL_SAMPLING_POSITI	ORD		Positive bilateral petrosal sinus sampling						2	No
+912	4270	PETROSAL_SAMPLING_POSITI	ORD		Positive bilateral petrosal sinus sampling						3	Not done
+912	4273	CRH_POSITIVE	ORD		Positive CRH test						1	Yes
+912	4273	CRH_POSITIVE	ORD		Positive CRH test						2	No
+912	4274	HIGH_DOSE_DEX_POSITIVE	ORD		Positive high dose dexamethasone test						1	Yes
+912	4274	HIGH_DOSE_DEX_POSITIVE	ORD		Positive high dose dexamethasone test						2	No
+912	4275	AVS_OUTCOME	ORD		Adrenal vein sampling						1	Bilateral overproduction
+912	4275	AVS_OUTCOME	ORD		Adrenal vein sampling						2	Unilateral overproduction
+912	4275	AVS_OUTCOME	ORD		Adrenal vein sampling						3	Non-diagnostic or not representative
+912	4275	AVS_OUTCOME	ORD		Adrenal vein sampling						4	Not done
+912	5639	CORT_BLOOD_MORNING_DX	QN	nmol/L	Basal S-Cortisol (at diagnosis)		0	2000	"Morning value, cortisol replacement withheld. Leave empty if there is no data available, use 0 for below limit of detection."			
+912	5641	ACTH_MORNING_DX	QN	pmol/L	Basal S-ACTH (at diagnosis)		0	300	"Morning value, cortisol replacement withheld. Leave empty if there is no data available, use 0 for below limit of detection."	1		
+912	5661	CORT_BLOOD_NIGHT_DX	QN	nmol/L	Midnight S-Cortisol (at diagnosis)			5000				
+912	5665	CORT_SALIVA_DX	QN	nmol/L	Late night Salivary Cortisol (at diagnosis)			5000				
+912	5645	CORT_24H_URINE_DX	QN	nmol/24h	24-hour Urine Cortisol (at diagnosis)			2889	Use 2889 for values greater than 2888 nmol/24h.			
+912	5646	SHORT_DEX_CORT_VALUE_DX	QN	nmol/L	Short dexa-test S-Cortisol (at diagnosis)			1000				
+912	5666	ULT_ALDOSTER_DX	QN	pmol/L	S-Aldosterone (at diagnosis)		50	5000	For use in Bristol and Bergen			
+912	5667	ULT_ALDOSTER_ATHENS_DX	QN	ng/dL	S-Aldosterone (at diagnosis)		1	5000	For use in Athens	1		
+912	5668	ALDO_RRR_DX	ORD		S-Aldosteron relative to reference range						1	Below
+912	5668	ALDO_RRR_DX	ORD		S-Aldosteron relative to reference range						2	Within
+912	5668	ALDO_RRR_DX	ORD		S-Aldosteron relative to reference range						3	Above
+912	5669	ULT_RENIN_BERGEN_DX	QN	mIE/L	P-Renin		0	500	For use in Bergen. Lower detection limit 2.0 mIE/L	1		
+912	5673	ULT_RENIN_ATHENS_DX	QN	µU/mL	P-Renin		0	500	For use in Athens. Lower detection limit 0.5 µU/mL	1		
+912	5676	ULT_RENIN_BRISTOL_DX	QN	nmol/L/h	P-Renin activity		0	10	For use in Bristol. Lower detection limit 0.2 nmol/L/h	1		
+912	5677	RENIN_RRR_DX	ORD		P-Renin (activity or concentration) relative to reference range						1	Below
+912	5677	RENIN_RRR_DX	ORD		P-Renin (activity or concentration) relative to reference range						2	Within
+912	5677	RENIN_RRR_DX	ORD		P-Renin (activity or concentration) relative to reference range						3	Above
+912	5731	ULT_ARR_DX	QN	ratio	ARR		0	5000	Aldosterone / Renin Ratio	1		
+912	5740	ARR_RRR_DX	ORD		ARR relative to reference range						1	Below
+912	5740	ARR_RRR_DX	ORD		ARR relative to reference range						2	Within
+912	5740	ARR_RRR_DX	ORD		ARR relative to reference range						3	Above
+912	3526	K_LOWEST	QN	mmol/L	Lowest S-Potassium measured		1	6		1		
+912	3527	K_LLN	QN	mmol/L	Lower limit of local S-Potassium reference range		1	03.mai	At the time of the lowest measured value	1		
+912	3528	ALDO_DX_CONF	ORD		Confirmatory test						1	Recumbent saline suppression test
+912	3528	ALDO_DX_CONF	ORD		Confirmatory test						2	Seated saline suppression test
+912	3528	ALDO_DX_CONF	ORD		Confirmatory test						3	Fludrocortisone suppression test
+912	3528	ALDO_DX_CONF	ORD		Confirmatory test						4	Oral sodium loading
+912	3528	ALDO_DX_CONF	ORD		Confirmatory test						5	Captopril challenge test
+912	3528	ALDO_DX_CONF	ORD		Confirmatory test						6	Dexamethason captopril valsartan test
+912	3529	ALDO_LOWEST_CONF	QN	pmol/L	Lowest S-Aldosterone reached with confirmation test		50	2000	For use in Bristol and Bergen			
+912	5638	ALDO_LOWEST_CONF_ATHENS	QN	ng/dL	Lowest S-Aldosterone reached with confirmation test		1	2000	For use in Athens	1		
+912	3530	ALDO_IMAGING	ORD		Adrenal imaging results						1	Unilateral tumour
+912	3530	ALDO_IMAGING	ORD		Adrenal imaging results						2	Bilateral tumour
+912	3530	ALDO_IMAGING	ORD		Adrenal imaging results						3	Unilateral hyperplasia
+912	3530	ALDO_IMAGING	ORD		Adrenal imaging results						4	Bilateral hyperplasia
+912	3530	ALDO_IMAGING	ORD		Adrenal imaging results						5	Normal adrenals
+912	3530	ALDO_IMAGING	ORD		Adrenal imaging results						6	Other
+912	3531	ALDO_AVS	ORD		Adrenal vein sampling						1	AVS bilateral overproduction
+912	3531	ALDO_AVS	ORD		Adrenal vein sampling						2	AVS unilateral overproduction
+912	3531	ALDO_AVS	ORD		Adrenal vein sampling						3	AVS non-diagnostic or not representative
+912	3531	ALDO_AVS	ORD		Adrenal vein sampling						4	AVS not performed
+912	10752	ALDO_SUBTYPE	ORD		Subtype primary aldosteronism						1	Bilateral overproduction
+912	10752	ALDO_SUBTYPE	ORD		Subtype primary aldosteronism						2	Unilateral overproduction
+912	10752	ALDO_SUBTYPE	ORD		Subtype primary aldosteronism						3	Not determined
+912	3532	ALDO_BMP_MED_MAX	QN		Maximum number of antihypertensives prior to diagnosis		0	6	"Simultaneous use. For combination drugs, count each substance as one"			
+912	3240	COMORBID_T2DM	ORD		Type 2 Diabetes						1	Yes
+912	3240	COMORBID_T2DM	ORD		Type 2 Diabetes						2	No
+912	3247	COMORBID_HT	ORD		Hypertension						1	Yes
+912	3247	COMORBID_HT	ORD		Hypertension						2	No
+912	3251	COMORBID_CARDIO	ORD		Cardiovascular disease						1	Yes
+912	3251	COMORBID_CARDIO	ORD		Cardiovascular disease						2	No
+912	3252	COMORBID_CEREBRO	ORD		Cerebrovascular disease						1	Yes
+912	3252	COMORBID_CEREBRO	ORD		Cerebrovascular disease						2	No
+912	4097	COMORBID_OSTEO	ORD		Osteoporosis						1	Yes
+912	4097	COMORBID_OSTEO	ORD		Osteoporosis						2	No
+912	4129	COMORBID_THROMBO	ORD		Thromboembolic disease				"DVT, Pulmonary Embolism"		1	Yes
+912	4129	COMORBID_THROMBO	ORD		Thromboembolic disease				"DVT, Pulmonary Embolism"		2	No
+912	3260	COMORBID_OTHER	ORD		Other comorbidities						1	Yes
+912	3260	COMORBID_OTHER	ORD		Other comorbidities						2	No
+912	3264	COMORBID_OTHER_DESC	NAR		Please describe other comorbidities							

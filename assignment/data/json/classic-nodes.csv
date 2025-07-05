@@ -1,0 +1,77 @@
+id,textContent,xrefIdentifier,comments,strokeStyle,backpageHead
+a0f65,"Corticosterone 
+methyl oxidase",ENSG00000179142,,,
+a1493,NADPH,CHEBI:57783,,,
+a5a88,P450scc,ENSG00000140459,[{'content': 'also known as CYP11A1'}],,
+a9453,Dihydrotestosterone,CHEBI:16330,,,
+aa2bd,3-beta-HSD,ENSG00000203859,,,
+aa2dc,P450c21,ENSG00000231852,,double,
+aa516,Testosterone,CHEBI:17347,,,
+abdca,"(R)20-hydroxy-
+steroid Dh",1.1.1.53,"[{'content': '1.1.1.53, similiar SP:2BHD STREX', 'source': 'GenMAPP remarks'}]",,
+ac07c,Oestradiol,CHEBI:16469,,,
+adcb9,"3-beta-
+HSD",ENSG00000203859,,,
+b0754,11beta-HSD1,ENSG00000117594,[{'content': 'Reference study in mice [PMID:9405715]'}],double,
+b572b,"11b, 21-Dihydroxy-3,20-
+5b-Pregnan-18-al",44263338,,,
+b5b07,Cholesterol,CHEBI:16113,,double,
+b6707,"Cortisone 
+beta-reductase",1.3.1.3,"[{'content': '1.3.1.3', 'source': 'GenMAPP remarks'}]",,
+b6cb0,17-hydroxyprogesterone,CHEBI:17252,,double,
+b8f6e,Cortisone,CHEBI:16962,,double,
+b9c00,3-beta-HSD,ENSG00000203859,,,
+ba400,Cortolone,516-42-7,,,
+bb620,Progesterone,CHEBI:17026,,double,
+bce56,STAR,ENSG00000147465,,,
+c1289,"Corticosterone 
+18-Monooxy",1.14.15.5,"[{'content': 'EC number: 1.14.15.5', 'source': 'GenMAPP remarks'}]",,Corticosterone 18-Monooxy
+c7413,Corticosterone,CHEBI:16827,,double,
+c798c,11-Deoxycortisol,CHEBI:28324,,double,
+cd588,P450c17,ENSG00000148795,,,
+cda05,DHEA,CHEBI:28689,,,
+ce91d,Cortisol,Q190875,,double,
+d1a53,NADP+,CHEBI:58349,,,
+d3852,HSD3B1,3283,,,
+d4ecc,11beta-HSD2,ENSG00000176387,,double,
+d57de,"20b-Hydroxy-
+steroid Dh",1.1.1.53,"[{'content': '1.1.1.53, similiar SP:2BHD STREX', 'source': 'GenMAPP remarks'}]",,2b-Hydroxysteroid Dh
+d75a6,3a-OH-5b-Pregnane-20-one,24779614,,,
+d883b,P450c17,ENSG00000148795,,,
+d8960,POR,P16435,,,
+d9040,Androstenedione,CHEBI:16422,,,
+d9a28,(11)-Deoxycorticosterone,CHEBI:16973,,double,
+db9af,"3a-Hydroxy-
+steroid Dh",1.1.1.50,"[{'content': 'SPs:DIDH RAT', 'source': 'GenMAPP remarks'}]",,3a-Hydroxysteroid Dh
+dc963,POR,P16435,,,
+dce1e,POR,P16435,,,
+e50af,17-beta-HSD3,ENSG00000130948,,,
+e5801,"11b,17a 21-Trihydroxy-5b
+Pregnane 3,20-dione",1482-50-4,"[{'content': 'AKA 11-BETA,17-ALPHA,21-TRIHYDROXY-5-BETA-PREGNANE-3,20-DIONE'}]",,
+e5c3a,Cortisol,Q190875,,,
+e5ed4,"3a-Hydroxy-
+steroid Dh",1.1.1.50,"[{'content': 'SPs:DIDH RAT', 'source': 'GenMAPP remarks'}]",,
+e6ee0,P450c11,ENSG00000160882,,,
+e7796,Pregnanediol,80-92-2,,,
+e8129,H6PD,ENSG00000049239,[{'content': 'This enzyme produces NADPH which is neccessary for 11beta-HSD1 to convert cortisone into cortisol.'}],,
+ed90c,18-hydroxycorticosterone,CHEBI:16485,,double,
+efed0,"3-Oxo-5b-
+Steroid Dh",3O5B,,,3-Oxo-5b-Steroid Dehydrog
+f024f,"17a,21-Dihydroxy-5b-17a,21-Dihydroxy
+-5b-Pregnane-3,11,20-trione",65554,"[{'content': 'aka 4,5beta-Dihydrocortisone'}]",,
+f0f50,POR,P16435,,,
+f1f07,"5b-Pregnane-3,20-dione",92745,,,
+f2829,Urocortisol,5864,[{'content': 'AKA Tetrahydrocortisol'}],,
+f379e,Cytochrome b5,J3KNC7,,,
+f3a66,Urocortisone,5754,,,
+f61fe,P450c17,ENSG00000148795,,double,
+f650a,Aldosterone,CHEBI:27584,,double,
+f980f,17-hydroxypregnenolone,CHEBI:28750,,double,
+fa3bb,steroid 5 alpha-reductase 2,ENSG00000277893,,,
+faa89,"3B-OH-delta-
+Steroid Dh",1.1.1.145,,,
+fbb24,"3a,11b,21-Trihydroxy-20-
+Oxo-5b-Pregnan-18-al",44263346,,,
+fbf29,P450Aro,ENSG00000137869,,,
+fe097,Glucuronides,CHEBI:26763,,,
+ff573,Pregnenolone,CHEBI:16581,,double,

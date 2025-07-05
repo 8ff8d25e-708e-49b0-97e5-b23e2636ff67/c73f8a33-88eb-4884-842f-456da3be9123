@@ -1,0 +1,5 @@
+[user]
+	email = student@ox.ac.uk
+	name = Unknown student
+[credential]
+	helper = store
