@@ -1,5 +1,4 @@
 .git-credentials
-.ipynb_checkpoints
 .ipython
 .jupyter
 .keras
@@ -10,4 +9,3 @@
 kge.ipynb
 gnn.ipynb
 kgs
-assignment/.ipynb_checkpoints
