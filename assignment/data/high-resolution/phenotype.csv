@@ -1,0 +1,24 @@
+PhenoTypeId,Type,Description,Group
+BMIOverweight,RiskFactor,BMI:Overweight,BMI
+BMIObese,RiskFactor,BMI:Obese,BMI
+BMIUnderweight,RiskFactor,BMI:Underweight,BMI
+BMINormal,NormalPhenotype,BMI:Normal,BMI
+Smoker,RiskFactor,Smoker,Smoking
+NonSmoker,NormalPhenotype,Non-smoker,Smoking
+HyperStage1BP,RiskFactor,High Blood Pressure Stage 1 Hypertension,Blood Pressure
+HyperStage2BP,RiskFactor,High Blood Pressure Stage 2 Hypertension,Blood Pressure
+PreHyperBP,RiskFactor,Pre Hypertension,Blood Pressure
+LowBP,RiskFactor,Low Blood Pressure,Blood Pressure
+NormalBP,NormalPhenotype,Normal Blood Pressure,Blood Pressure
+HighCholesterol,RiskFactor,High Cholesterol,
+PoorNutrition,RiskFactor,Poor nutrition,
+AlcoholConsumption,RiskFactor,High Alcohol Consumption,
+HighSaltIntake,RiskFactor,High Salt Intake,
+HighStrees,RiskFactor,High Stress,
+IllicitDrugUse,RiskFactor,Illicit Drug Use,
+PoorSexualHealth,RiskFactor,Poor Sexual Health,
+RegularExercise,NormalPhenotype,Regular exercise,
+HealthyDiet,NormalPhenotype,Healthy diet,
+LowWaistToHipRatio,NormalPhenotype,Low Waist To Hip Ratio,
+MediumWaistToHipRatio,RiskFactor,High Waist To Hip Ratio,
+HighWaistToHipRatio,RiskFactor,High Waist To Hip Ratio,

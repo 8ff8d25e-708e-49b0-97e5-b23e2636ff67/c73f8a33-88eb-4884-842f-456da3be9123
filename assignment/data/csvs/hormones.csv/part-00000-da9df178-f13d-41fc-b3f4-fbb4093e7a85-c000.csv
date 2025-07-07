@@ -1,31 +1,56 @@
-HormoneId,HormoneGroupId,Abbrev,Name
-0e5ee681-f1f8-432b-9b7f-3c8a9bf37ccc,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,18OHF,18-hydroxycortisol
-986c2526-bd34-4c47-bde0-1ce1b9e3dd2a,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,Aldo,Aldosterone
-331f9407-881d-4235-b880-48edf6c4d1a3,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,18oxoF,18-oxocortisol
-fb4e4e82-7eeb-482f-a9a2-5f1ea4421f78,6b539c79-feb0-429d-bdb1-66fa6a826c7d,DHEAS,Dehydroepiandrosterone sulfate
-7fca6ef2-8836-409b-a958-5287134aee49,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,Cortisol,Cortisol
-b04d90ba-5750-4666-a8ca-e02bbc4e2ec5,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,18OHCCS,18-hydroxycorticosterone
-5108b288-a0bc-4e12-bc22-870a8ef9789d,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,Cortisone,Cortisone
-36d1cef6-29bd-4c6a-be31-b1dc5718eca6,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,21DOC,21-deoxycortisol
-7249ff28-22e3-4ad9-941d-872533f4b0e6,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,aTHF,Allo-Tetrahydrocortisol
-7fa16bfd-eb60-4e59-884c-a8fb91a24e29,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,11DOC,11-deoxycorticosterone
-e24296df-5350-4657-b3de-7182a580c9e4,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,CCS,Corticosterone
-2dcfa2bd-5e70-442d-9ccc-761710bd435b,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,aTHE,Allotetrahydrocortisone
-77bd117a-5d7c-4851-b3a3-ba35b93d3741,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,THE,Tetrahydrocortisone
-7f966adf-7c0c-4ac5-ad21-5285f12613b1,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,THF,Tetrahydrocortisol
-f5b14ac8-65e6-4576-ab56-baa9c739ef65,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,DXM,Dexamethasone
-ccfd930e-e90d-494a-b859-a69a86c61389,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,THAldo,Tetrahydroaldosterone
-f508a009-13ec-49ec-bc16-adae2859ff6c,6b539c79-feb0-429d-bdb1-66fa6a826c7d,Andro,Androstenedione
-a21ef33b-5df9-4525-89ed-41347cc3875b,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,11deoxyCCS,11-deoxycorticosterone
-d3d47191-a2c9-49da-b3f5-85909530b1c6,6b539c79-feb0-429d-bdb1-66fa6a826c7d,DHEA,Dehydroepiandrosterone
-d429c59f-0792-4970-be40-82932963b049,6b539c79-feb0-429d-bdb1-66fa6a826c7d,EpiTesto,Epitestosterone
-f215e8fd-ceb8-4ba9-a570-0576757d3af8,6b539c79-feb0-429d-bdb1-66fa6a826c7d,Testo,Testosterone
-ae70a10a-33db-4acd-99c9-0fb2535899bc,5544c99e-eaa7-4c01-aae5-f4489688c0ad,17OHP,17-hydroxyprogesterone
-5bb70a76-a68d-42f5-95e1-c0c3fe844963,5544c99e-eaa7-4c01-aae5-f4489688c0ad,Prog,Progesterone
-80b1f594-f7ea-4752-ad52-3e4189977928,6a2e198e-8cfe-41c1-98af-73b4f8c39653,Estrone,Estrone
-bb4067dc-9d17-44ad-b30d-9d4055ea4c30,6b539c79-feb0-429d-bdb1-66fa6a826c7d,DHT,Dihydrotestosterone
-c790b671-ed16-4ef7-9dde-7044d1dde862,6a2e198e-8cfe-41c1-98af-73b4f8c39653,Estradiol,Estradiol
-c8e5ad8f-fc1c-4758-a165-21814e2e812f,11b3086d-1224-4f63-af0c-35e9842c07c0,DA,dopamine
-384cc520-c91d-4d9f-a82f-0194131d80f4,11b3086d-1224-4f63-af0c-35e9842c07c0,NE,norepinephrine
-405ddd20-11d4-4fac-9fa5-5dc6a57a1a11,6a2e198e-8cfe-41c1-98af-73b4f8c39653,Estriol,Estriol
-7db76f31-bfe9-4262-a734-04fdeb784667,11b3086d-1224-4f63-af0c-35e9842c07c0,Epi,epinephrine
+HormoneId,HormoneGroupId,Abbrev,Name,ReceptorSwissProt,Receptor,Modulator,Description
+7fa16bfd-eb60-4e59-884c-a8fb91a24e29,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,11DOC,11-Deoxycortisol,P04150,NR3C1,,Glucocorticoid
+a21ef33b-5df9-4525-89ed-41347cc3875b,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,11deoxyCCS,11-deoxycorticosterone,P08235,NR3C2,,Mineralocorticoid
+ae70a10a-33db-4acd-99c9-0fb2535899bc,5544c99e-eaa7-4c01-aae5-f4489688c0ad,17OHP,17-hydroxyprogesterone,P06401,PGR,,
+b04d90ba-5750-4666-a8ca-e02bbc4e2ec5,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,18OHCCS,18-hydroxycorticosterone,P08235,NR3C2,,Mineralocorticoid
+0e5ee681-f1f8-432b-9b7f-3c8a9bf37ccc,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,18OHF,18-hydroxycortisol,,,,"Biomarker for certain diseases, v low biosynthesix"
+331f9407-881d-4235-b880-48edf6c4d1a3,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,18oxoF,18-oxocortisol,,,,"v low biosynthesis in healthy individuals, adenomas"
+36d1cef6-29bd-4c6a-be31-b1dc5718eca6,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,21DOC,21-deoxycortisol,P04150,NR3C1,,
+986c2526-bd34-4c47-bde0-1ce1b9e3dd2a,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,Aldo,Aldosterone,P08235,NR3C2,,
+7249ff28-22e3-4ad9-941d-872533f4b0e6,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,aTHF,Allo-Tetrahydrocortisol,P04150,NR3C1,,
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,aTHE,Allotetrahydrocortisone,P14867,GABRA1,Negative,
+f508a009-13ec-49ec-bc16-adae2859ff6c,6b539c79-feb0-429d-bdb1-66fa6a826c7d,Andro,Androstenedione,P10275,AR,,Increase blood volume by reabsorption of sodium in kidneys (primarily). Potassium and H+ secretion in kidney. Substrate for estrogen
+e24296df-5350-4657-b3de-7182a580c9e4,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,CCS,Corticosterone,P08235,NR3C2,,
+7fca6ef2-8836-409b-a958-5287134aee49,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,Cortisol,Cortisol,P04150,NR3C1,,Active form of vitamin D3. Increase absorption of calcium and phosphate from gastrointestinal tract and kidneys inhibit release of PTH. Stimulation of gluconeogenesis. Inhibition of glucose uptake in muscle and adipose tissue Mobilization of amino acids from extrahepatic tissues Stimulation of fat breakdown in adipose tissue anti-inflammatory and immunosuppressive
+5108b288-a0bc-4e12-bc22-870a8ef9789d,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,Cortisone,Cortisone,,,,
+d3d47191-a2c9-49da-b3f5-85909530b1c6,6b539c79-feb0-429d-bdb1-66fa6a826c7d,DHEA,Dehydroepiandrosterone,P10275,AR,,"Virilization, anabolic"
+fb4e4e82-7eeb-482f-a9a2-5f1ea4421f78,6b539c79-feb0-429d-bdb1-66fa6a826c7d,DHEAS,Dehydroepiandrosterone sulfate,P10275,AR,,
+f5b14ac8-65e6-4576-ab56-baa9c739ef65,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,DXM,Dexamethasone,P04150,NR3C1,,
+bb4067dc-9d17-44ad-b30d-9d4055ea4c30,6b539c79-feb0-429d-bdb1-66fa6a826c7d,DHT,Dihydrotestosterone,P10275,AR,,"5-DHT or DHT is a male reproductive hormone that targets the prostate gland, bulbourethral gland, seminal vesicles, penis and scrotum and promotes growth/mitosis/cell maturation and differentiation. Testosterone is converted to 5-DHT by 5alpha-reductase, usually with in the target tissues of 5-DHT because of the need for high concentrations of 5-dht to produce the physiological effects."
+c8e5ad8f-fc1c-4758-a165-21814e2e812f,11b3086d-1224-4f63-af0c-35e9842c07c0,DA,dopamine,P21728,DRD1,,
+7db76f31-bfe9-4262-a734-04fdeb784667,11b3086d-1224-4f63-af0c-35e9842c07c0,Epi,epinephrine,P35348,ADRA1A,,
+d429c59f-0792-4970-be40-82932963b049,6b539c79-feb0-429d-bdb1-66fa6a826c7d,EpiTesto,Epitestosterone,P10275,AR,Competitive inhibitor,
+c790b671-ed16-4ef7-9dde-7044d1dde862,6a2e198e-8cfe-41c1-98af-73b4f8c39653,Estradiol,Estradiol,P03372,ESR1,,"Females:Structural: promote formation of female secondary sex characteristics; stimulate endometrial growth; increase uterine growth; maintenance of blood vessels and skin; reduce bone resorption; increase hepatic production of binding proteins. Coagulation: increase circulating level of factors 2, 7, 9, 10, antithrombin III, plasminogen; increase platelet adhesiveness. Fluid balance: salt (sodium) and water retention, increase growth hormone, increase cortisol, SHBG Gastrointestinal tract: reduce bowel motility increase cholesterol in bile Lung function: promote lung function by supporting alveoli.[7] Males: Prevent apoptosis of germ cells[8]"
+405ddd20-11d4-4fac-9fa5-5dc6a57a1a11,6a2e198e-8cfe-41c1-98af-73b4f8c39653,Estriol,Estriol,P03372,ESR1,,
+80b1f594-f7ea-4752-ad52-3e4189977928,6a2e198e-8cfe-41c1-98af-73b4f8c39653,Estrone,Estrone,P03372,ESR1,,
+384cc520-c91d-4d9f-a82f-0194131d80f4,11b3086d-1224-4f63-af0c-35e9842c07c0,NE,norepinephrine,P35348,ADRA1A,,
+5bb70a76-a68d-42f5-95e1-c0c3fe844963,5544c99e-eaa7-4c01-aae5-f4489688c0ad,Prog,Progesterone,P06401,PGR,,"Support pregnancy:[9]
+
+Convert endometrium to secretory stage
+Make cervical mucus permeable to sperm
+Inhibit immune response, e.g. towards the human embryo.
+Decrease uterine smooth muscle contractility[9]
+Inhibit lactation
+Inhibit onset of labor
+Support fetal production of adrenal mineralo- and glucosteroids
+
+Other:
+
+Raise epidermal growth factor-1 levels
+Increase core temperature during ovulation[10]
+Reduce spasm and relax smooth muscle (widen bronchi and regulate mucus)
+Antiinflammatory. Regulate immune response
+Reduce gall-bladder activity[11]
+Normalize blood clotting and vascular tone, zinc and copper levels, cell oxygen levels, and use of fat stores for energy
+Assist in thyroid function and bone growth by osteoblasts
+Resilience in bone, teeth, gums, joint, tendon, ligament and skin healing by regulating collagen
+Nerve function and healing by regulating myelin
+Prevent endometrial cancer by regulating effects of estrogen"
+f215e8fd-ceb8-4ba9-a570-0576757d3af8,6b539c79-feb0-429d-bdb1-66fa6a826c7d,Testo,Testosterone,P10275,AR,,"libido, Anabolic: growth of muscle mass and strength, increased bone density, growth and strength,
+
+Virilizing: maturation of sex organs, formation of scrotum, deepening of voice, growth of beard and axillary hair."
+ccfd930e-e90d-494a-b859-a69a86c61389,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,THAldo,Tetrahydroaldosterone,P08235,NR3C2,,
+7f966adf-7c0c-4ac5-ad21-5285f12613b1,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,THF,Tetrahydrocortisol,P04150,NR3C1,,
+77bd117a-5d7c-4851-b3a3-ba35b93d3741,d5cf84fb-a3ec-4b1b-82fe-c6efa428514b,THE,Tetrahydrocortisone,P04150,NR3C1,,
+a6a7ba09-718b-4cc2-8409-459175a42c86,1027a4d0-df4f-455f-9a36-9998c0aaff63,25OHD,Calcidiol,P11473,VDR,,Inactive form of vitamin D3
+1c1b1c3a-f807-41ad-a05b-1fea941c7701,1027a4d0-df4f-455f-9a36-9998c0aaff63,125DHCC,Calcitriol,P11473,VDR,,Active form of vitamin D3

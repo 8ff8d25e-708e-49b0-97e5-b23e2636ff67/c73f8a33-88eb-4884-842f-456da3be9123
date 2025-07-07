@@ -1,0 +1,68 @@
+﻿HormoneId,ReceptorId,ReceptorSwissProt,Affinity,Type
+c790b671-ed16-4ef7-9dde-7044d1dde862,ESR2,Q92731,High,
+405ddd20-11d4-4fac-9fa5-5dc6a57a1a11,ESR2,Q92731,High,
+80b1f594-f7ea-4752-ad52-3e4189977928,ESR2,Q92731,High,
+e24296df-5350-4657-b3de-7182a580c9e4,NR3C1,P04150,Low,
+c8e5ad8f-fc1c-4758-a165-21814e2e812f,DRD2,P14416,High,
+c8e5ad8f-fc1c-4758-a165-21814e2e812f,DRD3,P35462,High,
+c8e5ad8f-fc1c-4758-a165-21814e2e812f,DRD4,P21917,High,
+c8e5ad8f-fc1c-4758-a165-21814e2e812f,DRD5,P21918,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRA1A,P35348,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRA1B,P35368,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRA1D,P25100,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRA2A,P08913,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRA2B,P18089,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRA2C,P18825,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRB1,P08588,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRB2,P07550,High,
+7db76f31-bfe9-4262-a734-04fdeb784667,ADRB3,P13945,High,
+d429c59f-0792-4970-be40-82932963b049,SRD5A2,P31213,,Inhibitor
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRA1A,P35348,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRA1B,P35368,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRA1D,P25100,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRA2A,P08913,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRA2B,P18089,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRA2C,P18825,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRB1,P08588,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRB2,P07550,High,
+384cc520-c91d-4d9f-a82f-0194131d80f4,ADRB3,P13945,High,
+7f966adf-7c0c-4ac5-ad21-5285f12613b1,NR3C2,P08235,High,
+7f966adf-7c0c-4ac5-ad21-5285f12613b2,GABRA1,P14867,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b3,GABRA2,P47869,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b4,GABRA3,P34903,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b5,GABRA4,P48169,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b6,GABRA5,P31644,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b7,GABRA6,Q16445,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b8,GABRB1,P18505,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b9,GABRB2,P47870,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b10,GABRB3,P28472,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b11,GABRD,O14764,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b12,GABRE,P78334,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b13,GABRG1,Q8N1C3,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b14,GABRG2,P18507,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b15,GABRG3,Q99928,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b16,GABRP,O00591,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b17,GABRR1,P24046,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b18,GABRR2,P28476,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b19,GABRR3,A8MPY1,,Negative Allosteric Modulator
+7f966adf-7c0c-4ac5-ad21-5285f12613b20,GABRQ,Q9UN88,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRA1,P14867,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRA2,P47869,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRA3,P34903,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRA4,P48169,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRA5,P31644,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRA6,Q16445,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRB1,P18505,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRB2,P47870,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRB3,P28472,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRD,O14764,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRE,P78334,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRG1,Q8N1C3,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRG2,P18507,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRG3,Q99928,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRP,O00591,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRR1,P24046,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRR2,P28476,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRR3,A8MPY1,,Negative Allosteric Modulator
+2dcfa2bd-5e70-442d-9ccc-761710bd435b,GABRQ,Q9UN88,,Negative Allosteric Modulator
+77bd117a-5d7c-4851-b3a3-ba35b93d3741,NR3C1,P04150,Low,
