@@ -1,4 +1,4 @@
-HormoneId,HormoneGroupId,Abbrev,Name,ReceptorSwissProt,Receptor,Modulator,Description
+HormoneId,HormoneGroupId,Abbrev,Hormone,ReceptorSwissProt,Receptor,Modulator,Description
 7fa16bfd-eb60-4e59-884c-a8fb91a24e29,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,11DOC,11-Deoxycortisol,P04150,NR3C1,,Glucocorticoid
 a21ef33b-5df9-4525-89ed-41347cc3875b,ecb0e3d1-1123-4e66-a6a8-d71ef493606e,11deoxyCCS,11-deoxycorticosterone,P08235,NR3C2,,Mineralocorticoid
 ae70a10a-33db-4acd-99c9-0fb2535899bc,5544c99e-eaa7-4c01-aae5-f4489688c0ad,17OHP,17-hydroxyprogesterone,P06401,PGR,,

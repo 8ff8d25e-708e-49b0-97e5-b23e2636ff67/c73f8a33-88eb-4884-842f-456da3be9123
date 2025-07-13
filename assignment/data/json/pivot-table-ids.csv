@@ -1,0 +1,111 @@
+Hormone,HormoneId,LipidMapsId,PrecursorId,ClassicId,GlucoId,MineraloId,ClassicXhref,ClassicId2
+11-Deoxycortisol,7fa16bfd-eb60-4e59-884c-a8fb91a24e29,LMST02030086,f5961,c798c,c22f5,,CHEBI:28324
+11-deoxycorticosterone,a21ef33b-5df9-4525-89ed-41347cc3875b,LMST02030087,ec77a,d9a28,,c4f5f,CHEBI:16973
+17-hydroxyprogesterone,ae70a10a-33db-4acd-99c9-0fb2535899bc,LMST02030161,f4277,b6cb0,d460a,,CHEBI:17252
+18-hydroxycorticosterone,b04d90ba-5750-4666-a8ca-e02bbc4e2ec5,LMST02030091,,ed90c,,ba604,CHEBI:16485
+18-hydroxycortisol,0e5ee681-f1f8-432b-9b7f-3c8a9bf37ccc,LMST02030295,,,f72d3
+18-oxocortisol,331f9407-881d-4235-b880-48edf6c4d1a3,LMST02030296,,,fb94d
+21-deoxycortisol,36d1cef6-29bd-4c6a-be31-b1dc5718eca6,LMST02030195,,,c81c5
+Aldosterone,986c2526-bd34-4c47-bde0-1ce1b9e3dd2a,LMST02030026,,f650a,,bb53d,CHEBI:27584
+Allo-Tetrahydrocortisol,7249ff28-22e3-4ad9-941d-872533f4b0e6
+Allotetrahydrocortisone,2dcfa2bd-5e70-442d-9ccc-761710bd435b
+Androstenedione,f508a009-13ec-49ec-bc16-adae2859ff6c,,,d9040,,,CHEBI:16422
+Corticosterone,e24296df-5350-4657-b3de-7182a580c9e4,LMST02030186,,c7413,,e2f57,CHEBI:16827
+Cortisol,7fca6ef2-8836-409b-a958-5287134aee49,LMST02030001,,ce91d,bd95d,,Q190875,e5c3a
+Cortisone,5108b288-a0bc-4e12-bc22-870a8ef9789d,LMST02030090,,b8f6e,e6e40,,CHEBI:16962
+Dehydroepiandrosterone,d3d47191-a2c9-49da-b3f5-85909530b1c6,,,cda05,,,CHEBI:28689
+Dehydroepiandrosterone sulfate,fb4e4e82-7eeb-482f-a9a2-5f1ea4421f78
+Dexamethasone,f5b14ac8-65e6-4576-ab56-baa9c739ef65
+Dihydrotestosterone,bb4067dc-9d17-44ad-b30d-9d4055ea4c30,,,a9453,,,CHEBI:16330
+dopamine,c8e5ad8f-fc1c-4758-a165-21814e2e812f
+epinephrine,7db76f31-bfe9-4262-a734-04fdeb784667
+Epitestosterone,d429c59f-0792-4970-be40-82932963b049
+Estradiol,c790b671-ed16-4ef7-9dde-7044d1dde862
+Estriol,405ddd20-11d4-4fac-9fa5-5dc6a57a1a11
+Estrone,80b1f594-f7ea-4752-ad52-3e4189977928
+norepinephrine,384cc520-c91d-4d9f-a82f-0194131d80f4
+Progesterone,5bb70a76-a68d-42f5-95e1-c0c3fe844963,LMST02030159,ba0ac,bb620,,f30c0,CHEBI:17026
+Testosterone,f215e8fd-ceb8-4ba9-a570-0576757d3af8,,,aa516,,,CHEBI:17347
+Tetrahydroaldosterone,ccfd930e-e90d-494a-b859-a69a86c61389,LMST02030275,,,,b1923
+Tetrahydrocortisol,7f966adf-7c0c-4ac5-ad21-5285f12613b1,LMST02030143,,f2829,a0b91,,5864
+Tetrahydrocortisone,77bd117a-5d7c-4851-b3a3-ba35b93d3741,LMST02030098,,,eb2c2
+Calcidiol,a6a7ba09-718b-4cc2-8409-459175a42c86
+Calcitriol,1c1b1c3a-f807-41ad-a05b-1fea941c7701
+11-Dehydrocorticosterone,LMST02030284,LMST02030284,<null>,,,d9ab0,
+17-hydroxypregnenolone,LMST02030089,LMST02030089,f5ff5,f980f,,,CHEBI:28750
+"20R,22R-dihydroxycholesterol",LMST01010200,LMST01010200,efcee,,,,
+20alpha-Hydroxyprogesterone,LMST02030169,LMST02030169,eea0d,,,,
+22R-Hydroxycholesterol,LMST01010086,LMST01010086,f2eec,,,,
+3alpha-hydroxy-5beta-pregnan-20-one,LMST02030175,LMST02030175,d23e6,,,,
+"5alpha-pregnane-3,20-dione",LMST02030170,LMST02030170,fbb9b,,,,
+"5beta-pregnane-3,20-dione",LMST02030269,LMST02030269,d6a61,f1f07,fce99,,92745
+Allopregnanolone,LMST02030130,LMST02030130,Cholesterol,,,,
+Cholesterol,LMST01010001,LMST01010001,b872c,b5b07,,,CHEBI:16113
+Isoprogesterone,LMST02030299,LMST02030299,ab7f9,,,,
+Pregnanediol,LMST02030264,LMST02030264,d7455,e7796,,,80-92-2
+Pregnanediol-3-glucuronide,LMST05010073,LMST05010073,dbb10,,,,
+Pregnenediol b,LMST02030205,LMST02030205,fc6b7,,,,
+Pregnenetriol,LMST02030263,LMST02030263,e43d7,,,,
+Pregnenolone,LMST02030088,LMST02030088,fa278,ff573,,,CHEBI:16581
+(R)20-hydroxy-steroid Dh,1.1.1.53,,,abdca,,,1.1.1.53
+"11b, 21-Dihydroxy-3,20-5b-Pregnan-18-al",44263338,,b572b,b572b,,,44263338
+"11b,17a 21-Trihydroxy-5bPregnane 3,20-dione",1482-50-4,,,e5801,,,1482-50-4
+11beta-HSD1,ENSG00000117594,,,b0754,,,ENSG00000117594
+11beta-HSD2,ENSG00000176387,,,d4ecc,,,ENSG00000176387
+17-beta-HSD3,ENSG00000130948,,,e50af,,,ENSG00000130948
+"17a,21-Dihydroxy-5b-17a,21-Dihydroxy
+-5b-Pregnane-3,11,20-trione",65554,,,f024f,,,65554
+"3a,11b,21-Trihydroxy-20-Oxo-5b-Pregnan-18-al",44263346,,,fbb24,,,44263346
+3a-OH-5b-Pregnane-20-one,24779614,,,d75a6,,,24779614
+Cortolone,516-42-7,,,ba400,,,516-42-7,
+Glucuronides,CHEBI:26763,,,fe097,,,CHEBI:26763,
+NADP+,CHEBI:58349,,,d1a53,,,CHEBI:58349,
+NADPH,CHEBI:57783,,,a1493,,,CHEBI:57783,
+Oestradiol,CHEBI:16469,,,ac07c,,,CHEBI:16469,
+Urocortisone,5754,,,f3a66,,,5754,
+11-Ketoetiocholanolone,LMST02020123,LMST02020123,,,a0694,,,
+11beta-Hydroxyetiocholanolone,LMST02020086,LMST02020086,,,c0638,,,
+"17alpha-hydroxy-5beta-Pregnane-3,11,20-trione",LMST02030291,LMST02030291,,,bd683,,,
+18-oxo-dihydrocortisol,LMST02030297,LMST02030297,,,ea7eb,,,
+18-oxo-tetrahydrocortisol,LMST02030298,LMST02030298,,,b521c,,,
+20alpha-Dihydrocortisone,LMST02030265,LMST02030265,,,e9da3,,,
+20alpha-Hydroxycortisol,LMST02030271,LMST02030271,,,fec3a,,,
+20beta-Dihydrocortisone,LMST02030266,LMST02030266,,,e9c21,,,
+20beta-hydroxycortisol,LMST02030270,LMST02030270,,,e84e0,,,
+21-Deoxycortisone,LMST02030289,LMST02030289,,,d060e,,,
+"4,5beta-Dihydrocortisone",LMST02030095,LMST02030095,,,e475b,,,
+"4-Pregnene-17alpha,20alpha-diol-3,11-dione",LMST02030294,LMST02030294,,,b6cee,,,
+5alpha-Dihydrocortisol,LMST02030272,LMST02030272,,,cd15f,,,
+5alpha-Tetrahydrocortisol,LMST02030200,LMST02030200,,,c2c50,,,
+"5beta-Pregnane-17alpha,20alpha-diol-3,11-dione",LMST02030293,LMST02030293,,,e5e94,,,
+"5beta-Pregnane-3alpha,17alpha-diol-11,20-dione",LMST02030292,LMST02030292,,,d1540,,,
+5beta-dihydrocortisol,LMST02030204,LMST02030204,,,e211c,,,
+"5beta-pregnane-11beta,17alpha,
+20alpha,21-tetrol-3-one",LMST02030273,LMST02030273,,,c152d,,,
+"5beta-pregnane-11beta,17alpha,20beta,21-tetrol-3-one",LMST02030274,LMST02030274,,,c61c9,,,
+"5beta-pregnane-17alpha,20alpha,21-triol-3,11-dione",LMST02030267,LMST02030267,,,dbcbb,,,
+"5beta-pregnane-17alpha,20beta,21-triol-3,11-dione",LMST02030268,LMST02030268,,,e5bb3,,,
+6beta-hydroxycortisol,LMST02030269,LMST02030269,,,fce99,,,
+Cortolic acid,LMST02030300,LMST02030300,,,d1fa0,,,
+Cortolonic acid,LMST02030290,LMST02030290,,,e13ee,,,
+Pregnanetriolone,LMST02030290,LMST02030290,,,e06ef,,,
+alpha-Cortol,LMST02030228,LMST02030228,,,b0584,,,
+alpha-cortolone,LMST02030227,LMST02030227,,,f42d9,,,
+beta-cortol,LMST02030229,LMST02030229,,,ff253,,,
+beta-cortolic acid,LMST02030303,LMST02030303,,,f3c8f,,,
+beta-cortolone,LMST02030230,LMST02030230,,,ba0af,,,
+beta-cortolonic acid,LMST02030301,LMST02030301,,,a3f64,,,
+"11β,18,21-trihydroxy-5β-pregnan-3,20-dione",LMST02030277,LMST02030277,,,,a949e,,
+18-Hydroxy-11-dehydrotetrahydrocorticosterone,LMST02030279,LMST02030279,,,,d7423,,
+"3alpha,11beta,18,21-tetrahydroxy-5beta-pregnan-20-one",LMST02030278,LMST02030278,,,,b63ad,,
+"3alpha,21-dihydroxy-5beta-pregnane-11,20-dione",LMST02030288,LMST02030288,,,,f0520,,
+5alpha-Dihydrocorticosterone,LMST02030281,LMST02030281,,,,ecd12,,
+5beta-Dihydroaldosterone,LMST02030276,LMST02030276,,,,e8d2c,,
+5beta-Dihydrocorticosterone,LMST02030280,LMST02030280,,,,af7f9,,
+5beta-dihydrodeoxycorticosterone,LMST02030282,LMST02030282,,,,c80af,,
+5beta-dihydrodeoxycorticosterone,LMST02030283,LMST02030283,,,,ceed9,,
+"5beta-pregnan-21-ol-3,11,20-trione",LMST02030285,LMST02030285,,,,b918b,,
+Aldosterone 18-glucuronide,LMST05010062,LMST05010062,,,,e1e85,,
+Alfadolone,LMST02030287,LMST02030287,,,,e790d,,
+Allotetrahydrocorticosterone,LMST02030142,LMST02030142,,,,b7d0f,,
+Tetrahydrocorticosterone,LMST02030100,LMST02030100,,,,aae50,,
