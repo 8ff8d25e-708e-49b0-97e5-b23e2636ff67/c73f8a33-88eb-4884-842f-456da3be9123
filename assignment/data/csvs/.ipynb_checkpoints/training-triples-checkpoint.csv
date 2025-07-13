@@ -1,12 +1,4 @@
 Hormone,_c1,Organ
-Progestogen,childOf,Steroids
-Secosteroid,childOf,Steroids
-Catecholomines,childOf,Catecholomines
-Mineralcorticoid,childOf,Steroids
-Androgen,childOf,Steroids
-Peptide,childOf,Polypeptides
-Estrogen,childOf,Steroids
-Glucocorticoid,childOf,Steroids
 Cyst and pseudocyst,isEtiologyOf,Other benign mass
 Primary aldosteronism,isEtiologyOf,Adrenocortical adenoma or macronodular bilateral adrenal hyperplasia
 Hemorrhage,isEtiologyOf,Other benign mass
@@ -100,66 +92,37 @@ dopamine,secretedBy,Substantia nigra
 dopamine,secretedBy,Ventral Tegmental Area
 Chromaffin cells,partOf,Adrenal medulla
 L cells,partOf,Ileum
-Pancreatic β-cells,partOf,Islets of Langerhans
 Lactotrophs of anterior pituitary,partOf,Anterior pituatory
-Zona fasciculata,partOf,Adrenal cortex
+Pancreatic β-cells,partOf,Islets of Langerhans
 Thyrotropes,partOf,Anterior pituatory
-PP cells,partOf,Islets of Langerhans
-Thyroid follicular cell,partOf,Peripheral tissue
+Zona fasciculata,partOf,Adrenal cortex
 Beta cells of Islets of Langerhans,partOf,Islets of Langerhans
+Thyroid follicular cell,partOf,Peripheral tissue
 Cardiac myocytes,partOf,Cardiac muscle
+PP cells,partOf,Islets of Langerhans
 Parathyroid chief cell,partOf,Parathyroid
 Parvocellular neurosecretory neurons,partOf,Posteria pituatory
 Alpha cells of Islets of Langerhans,partOf,Islets of Langerhans
 Zona glomerulosa,partOf,Adrenal cortex
 Zona reticularis,partOf,Adrenal cortex
-Myocytes,partOf,Muscle
 Magnocellular neurosecretory cells,partOf,Posteria pituatory
+Myocytes,partOf,Muscle
 Delta cells in islets,partOf,Islets of Langerhans
 Adipocytes,partOf,Adipose tissue
 Somatotropes,partOf,Anterior pituatory
 Parafollicular cell,partOf,Thyroid
 Corticotrope,partOf,Anterior pituatory
-Neuroendocrince cells,partOf,Periventricular nucleus
 Gonadotropes,partOf,Anterior pituatory
-Tetrahydrocortisone,childOf,Glucocorticoid
-Allotetrahydrocortisone,childOf,Glucocorticoid
-Dehydroepiandrosterone,childOf,Androgen
-Dexamethasone,childOf,Glucocorticoid
-Dihydrotestosterone,childOf,Androgen
-Androstenedione,childOf,Androgen
-Calcitriol,childOf,Secosteroid
-Testosterone,childOf,Androgen
-Cortisol,childOf,Glucocorticoid
-18-oxocortisol,childOf,Glucocorticoid
-Cortisone,childOf,Glucocorticoid
-11-Deoxycortisol,childOf,Mineralcorticoid
-11-deoxycorticosterone,childOf,Mineralcorticoid
-21-deoxycortisol,childOf,Glucocorticoid
-17-hydroxyprogesterone,childOf,Progestogen
-Tetrahydroaldosterone,childOf,Mineralcorticoid
-Aldosterone,childOf,Mineralcorticoid
-Corticosterone,childOf,Glucocorticoid
-Estriol,childOf,Estrogen
-Estrone,childOf,Estrogen
-Estradiol,childOf,Estrogen
-Progesterone,childOf,Progestogen
-18-hydroxycortisol,childOf,Glucocorticoid
-Allo-Tetrahydrocortisol,childOf,Glucocorticoid
-Tetrahydrocortisol,childOf,Glucocorticoid
-18-hydroxycorticosterone,childOf,Mineralcorticoid
-Calcidiol,childOf,Secosteroid
-Dehydroepiandrosterone sulfate,childOf,Androgen
-Epitestosterone,childOf,Androgen
+Neuroendocrince cells,partOf,Periventricular nucleus
 Jejunum,partOf,Small Intestine
 Gastric Mucosa,partOf,Stomach
 Substantia nigra,partOf,Brain
 Islets of Langerhans,partOf,Pancreas
 Adrenal cortex,partOf,Adrenal Gland
 Thyroid,partOf,Thyroid
-Ileum,partOf,Small Intestine
 Ventral Tegmental Area,partOf,Brain
 Periventricular nucleus,partOf,Hypthalamus
+Ileum,partOf,Small Intestine
 Posteria pituatory,partOf,Pituitary gland
 Anterior pituatory,partOf,Pituitary gland
 Corpus luteum,partOf,Ovary
